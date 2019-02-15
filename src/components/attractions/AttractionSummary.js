@@ -1,14 +1,14 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
 
-const AttractionSummary = ({stats,  info}) => {
+const AttractionSummary = ({stats,  info, type}) => {
   return (
       <div className="col s6">
         <div className="card hoverable">
         <div className="card-image">
         <img src={"https://www.efteling.com/nl" + info.fields.image_detailview1} alt={stats.Id}></img>
         <span className="card-title">{info.fields.name}</span>
-        <Link to={'/attraction/' + stats.Id} className="btn-floating halfway-fab waves-effect waves-light red">
+        <Link to={'/'+ type +'/' + stats.Id} className="btn-floating halfway-fab waves-effect waves-light red">
         <i className="material-icons">add</i>
         </Link>
         </div>

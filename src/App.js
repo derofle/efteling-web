@@ -2,6 +2,8 @@ import React, { Component } from 'react';
 import { BrowserRouter, Switch, Route } from 'react-router-dom'
 import NavNar from './components/layout/NavBar'
 import Dashboard from './components/dashboard/Dashboard'
+import AttractionDashboard from './components/dashboard/AttractionDashboard'
+import ShowDashboard from './components/dashboard/ShowDashboard'
 import AttractionDetails from './components/attractions/AttractionDetails'
 
 class App extends Component {
@@ -49,11 +51,29 @@ class App extends Component {
               <Route 
                 exact path='/'
                 render={(props) => (
-                  <Dashboard {...props} attractionStats={this.state.AttractionStats} attractionInfo={this.state.AttractionInfo} loading={this.state.loading}/>
+                  <Dashboard {...props} stats={this.state.AttractionStats} info={this.state.AttractionInfo} loading={this.state.loading}/>
+                )}
+                />
+              <Route 
+                exact path='/attraction'
+                render={(props) => (
+                  <AttractionDashboard {...props} stats={this.state.AttractionStats} info={this.state.AttractionInfo} loading={this.state.loading}/>
+                )}
+                />
+                <Route 
+                exact path='/show'
+                render={(props) => (
+                  <ShowDashboard {...props} stats={this.state.AttractionStats} info={this.state.AttractionInfo} loading={this.state.loading}/>
                 )}
                 />
               <Route
                 path='/attraction/:Id'
+                render={(props) => (
+                  <AttractionDetails {...props} attractionStats={this.state.AttractionStats} attractionInfo={this.state.AttractionInfo} loading={this.state.loading}/>
+                )}
+                />
+              <Route
+                path='/show/:Id'
                 render={(props) => (
                   <AttractionDetails {...props} attractionStats={this.state.AttractionStats} attractionInfo={this.state.AttractionInfo} loading={this.state.loading}/>
                 )}

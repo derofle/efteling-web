@@ -33,16 +33,30 @@ class AttractionDetails extends Component  {
       if (!this.state.loading) {
         return (
           <div className="container section project-details">
-            <div className="card z-depth-0">
-              <div className="card-content">
-                <img src={"https://www.efteling.com/nl" + this.state.info.fields.image_detailview1} alt=""/>
-                <span className="card-title">{this.state.info.fields.name}</span>
-                <span className="grey-text">{this.state.info.fields.subtitle}</span>
-                <div dangerouslySetInnerHTML={this.createMarkup(this.state.contentText)}></div>
+            <div className="row">
+              <div className="col s8">
+                <div className="card">
+                  <div className="card-image">
+                    <img src={"https://www.efteling.com/nl" + this.state.info.fields.image_detailview1} alt=""/>
+                  </div>
+                  <div className="card-action grey lighten-4 grey-text">
+                    <div className="row">
+                      <div className="col s6">{ this.state.stats.WaitingTime || this.state.stats.WaitingTime === 0 ? "met een wachttijd van " + this.state.stats.WaitingTime + " minuten!" : null }</div>
+                      <div className="col s6 right-align">{this.state.info.fields.empire}</div>
+                    </div>
+                  </div>
+                  <div className="card-content">
+                    <div dangerouslySetInnerHTML={this.createMarkup(this.state.contentText)}></div>
+                  </div>
+                </div>
               </div>
-              <div className="card-action grey lighten-4 grey-text">
-                <div>Wachtijd is {this.state.stats.WaitingTime} minuten.</div>
-                <div>{this.state.info.fields.empire}</div>
+              <div className="col s4">
+                <div className="card">   
+                  <div className="card-content grey-text text-darken-3">
+                    <span className="card-title">{this.state.info.fields.name}</span>
+                    <span className="grey-text">{this.state.info.fields.subtitle}</span>
+                  </div>
+                </div>
               </div>
             </div>
           </div>

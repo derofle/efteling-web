@@ -8,8 +8,8 @@ const Navbar = () => {
       <div className="container">
         <Link to='/' className="brand-logo left">Efteling API</Link>
         <ul className="right">
-        <li><NavLink to='/'>Attracties</NavLink></li>
-        <li><NavLink to='/'>Shows</NavLink></li>
+        <li><NavLink to='/attraction'>Attracties</NavLink></li>
+        <li><NavLink to='/show'>Shows</NavLink></li>
         </ul>
       </div>
     </nav>

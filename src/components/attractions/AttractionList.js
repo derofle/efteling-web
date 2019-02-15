@@ -2,16 +2,15 @@ import React from 'react'
 import AttractionSummary from './AttractionSummary'
 
 
-const AttractionList = ({attractionStats, attractionInfo}) => {
-
+const AttractionList = ({stats, info, type}) => {
         return (   
             <div className="row">
-            { attractionStats && attractionStats.map(attraction => {
-                if (attraction.Type === "Attraction" && attraction.Id !== "virtueledroomvlucht") {
-                const info = attractionInfo.find(a => a.fields.id === attraction.Id);
-                if (info){
+            { stats && stats.map(attraction => {
+                if (attraction.Type === type && attraction.Id !== "virtueledroomvlucht") {
+                const singleInfo = info.find(a => a.fields.id === attraction.Id);
+                if (singleInfo){
                 return (
-                        <AttractionSummary stats={attraction} key={attraction.Id} info={info}/>
+                        <AttractionSummary stats={attraction} key={attraction.Id} info={singleInfo} type={type}/>
                 )
                 }
                 } return null;
