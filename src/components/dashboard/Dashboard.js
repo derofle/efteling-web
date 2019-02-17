@@ -1,53 +1,39 @@
 import React, { Component } from 'react'
+import RandomItem from '../items/RandomItem';
 
 class Dashboard extends Component {
 
-  compare = (a, b) => {
-    if (a.Type < b.Type)
-      return -1;
-    if (a.Type > b.Type)
-      return 1;
-    return 0;
+  componentDidMount() {
+    
   }
 
-
   render() {  
-    const array = this.props.stats;
-    array.sort(this.compare)
-    if (!this.props.loading) {
-    return (
-      <div className="container">
-      <table>
-                
-      <tbody>
-      <tr>
-                   <td>ID</td>
-                   <td>Type</td>
-                   <td>Map Location</td>
-                   <td>State</td>
-                   <td>StateColor</td>
-                 </tr>
-        {array.map(function(item, key) {
-             
-               return (
-                
-                  <tr key = {key}>
-                      <td>{item.Id}</td>
-                      <td>{item.Type}</td>
-                      <td>{item.MapLocation}</td>
-                      <td>{item.State}</td>
-                      <td>{item.StateColor}</td>
-                  </tr>
-                )
-             
-             })}</tbody>
-       </table>
-       </div>
-    )
-    } else{ 
-        return (
-            null
-        )
+    if (!this.props.loading){
+      
+      const attractionData = this.props.attractionData;
+      console.log(attractionData);
+
+      return (
+        <div className="container">
+          <div className="row "></div>
+            <div className="row ">
+            <div className="col s8">
+            <div className="card">
+              <div className="card-content">
+            </div>
+          </div>
+          </div>
+          <div className="col s4">
+            <div className="card">
+              <div className="card-content">
+                <span className="card-title center-align" style={{ "padding-bottom":"8px" }}>Ben je hier al geweest?</span>
+                <RandomItem attractionData={attractionData} />
+              </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      );
     }
   }
 }

@@ -1,8 +1,8 @@
 import React from 'react'
-import AttractionSummary from './AttractionSummary'
+import ItemSummary from './ItemSummary'
 
 
-const AttractionList = ({stats, info, type}) => {
+const ItemList = ({stats, info, type}) => {
         return (   
             <div className="row">
             { stats && stats.map(attraction => {
@@ -10,7 +10,7 @@ const AttractionList = ({stats, info, type}) => {
                 const singleInfo = info.find(a => a.fields.id === attraction.Id);
                 if (singleInfo){
                 return (
-                        <AttractionSummary stats={attraction} key={attraction.Id} info={singleInfo} type={type}/>
+                        <ItemSummary stats={attraction} key={attraction.Id} info={singleInfo} type={type}/>
                 )
                 }
                 } return null;
@@ -21,4 +21,4 @@ const AttractionList = ({stats, info, type}) => {
     
 }
 
-export default AttractionList
+export default ItemList

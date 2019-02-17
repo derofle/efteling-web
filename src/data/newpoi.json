@@ -1,0 +1,527 @@
+{"PoiInfo":[
+    {
+        "id":"symbolica",
+        "name":"Symbolica",
+        "type":"New dark ride",
+        "category":"attraction",
+        "latlon":"51.649918,5.049548",
+        "subtitle":"Paleis der Fantasie",
+        "detail_text":"Beleef overdekte familie-attractie Symbolica, een betoverend paleis waar de fantasie tot leven komt. Ga samen op audiëntie bij de koning. Tovernar Pardoes zorgt ervoor dat élk bezoek verrassend en betoverend is. Dwaal af in de geheime gangen en magische vertrekken en val van de ene verbazing in de andere.",
+        "text":"Indoor family attraction ",
+        "image":"/en/-/media/images/app/quickview/attracties/260x400-symbolica-winter.jpg",
+        "image_detailview1":"/en/-/media/images/app/detailview/attracties/symbolica/1024x576-symbolica-winter.jpg",
+        "image_detailview2":"/en/-/media/images/app/detailview/attracties/symbolica/1024x576-symbolica-koningszaal-hele-scene.jpg",
+        "image_detailview3":"/en/-/media/images/app/detailview/attracties/symbolica/1024x576-symbolica-observatorium.jpg",
+        "empire":"Fantasierijk",
+        "properties":
+            [
+                "transfernecessary",
+                "120undersupervision",
+                "dizzy",
+                "babyswitch",
+                "babiesnotallowed",
+                "attractionforfamiliy",
+                "assistancedogs"
+            ]
+    },
+    {
+        "id":"symbolicasingleriders",
+        "name":"Symbolica single rider",
+        "type":"New dark ride",
+        "category":"attraction-singlerider",
+        "latlon":"51.650093,5.049395",
+        "subtitle":"Palace of Fantasy",
+        "detail_text":"\u003cp\u003eIf you are on your own or the only one in the group who wants to ride Symbolica, you can join this queue. Wander through secret passages and magical halls that have a surprise around every corner. Duration: 7 minutes.\u003c/p\u003e",
+        "text":"Indoor family attraction ",
+        "image":"/en/-/media/images/app/quickview/attracties/260x400-symbolica-winter.jpg",
+        "image_detailview1":"/en/-/media/images/app/detailview/attracties/symbolica/1024x576-symbolica-winter.jpg",
+        "image_detailview2":"/en/-/media/images/app/detailview/attracties/symbolica/1024x576-symbolica-koningszaal-hele-scene.jpg",
+        "image_detailview3":"/en/-/media/images/app/detailview/attracties/symbolica/1024x576-symbolica-observatorium.jpg",
+        "empire":"Fantasierijk",
+        "properties":
+            [
+                "transfernecessary",
+                "minimum120",
+                "dizzy",
+                "babyswitch",
+                "babiesnotallowed",
+                "attractionforfamiliy"
+            ]
+    },
+    {
+        "id":"avonturendoolhof",
+        "name":"Avonturendoolhof",
+        "type":"adventure maze",
+        "category":"attraction",
+        "latlon":"51.651535,5.052409",
+        "subtitle":"Labyrinth voor kinderen",
+        "detail_text":"Ga op ontdekkingsreis! Vind je weg naar de uitgang in dit spannende kinderdoolhof. Luister naar het pratende beeld voor aanwijzingen, maar pas op voor de fonteinen die te pas en te onpas waterstralen op je afvuren. Deze openlucht attractie is alleen toegankelijk voor kinderen kleiner dan 1.50 meter.",
+        "text":"Labyrinth voor kinderen",
+        "image":"/en/-/media/images/app/quickview/attracties/260x400-avonturendoolhof-winter.jpg",
+        "image_detailview1":"/en/-/media/images/app/detailview/attracties/avonturen-doolhof/1024x576-avonturendoolhof-winter.jpg",
+        "empire":"Reizenrijk",
+        "properties":
+            [
+                "notaccessiblewheelchairs",
+                "attractionforchildren",
+                "outdoorattraction",
+                "wet"
+            ]
+    },
+    {
+        "id":"baron1898",
+        "name":"Baron 1898",
+        "theme":"Mijnbouw",
+
+        "type":"Stalen Divecoaster",
+        "builder":"Bolliger & Mabillard",
+        "maxspeed":"90",
+        "length":"501",
+        "height":"30",
+        "highest-drop":"37,5",
+        "g-force":"3",
+        "inversions":"2",
+        "ridetime":"130",
+        "trains":"3",
+        "building":"Augustus 2014 - Juni 2015",
+        "status":"open",
+        "capacity":"1000 personen/uur",
+
+        "opened":"01-07-15",
+        "category":"attraction",
+        "latlon":"51.64827,5.050988",
+        "subtitle":"Op grote diepte wacht de rijkdom",
+        "detail_text":"Om de mijn te betreden laat Baron 1898 je 37,5 meter omlaag storten! Snel, probeer het goud in de ondergrondse gang te bemachtigen voordat de Witte Wieven jouw kans op rijkdom saboteren tijdens deze dive coaster rit.",
+        "text":"Recht naar beneden in een vrije val",
+        "image":"/en/-/media/images/app/quickview/attracties/260x400-de-baron-winter.jpg",
+        "image_detailview1":"/en/-/media/images/app/detailview/attracties/baron-1898/1024x576-de-baron-winter.jpg",
+        "empire":"Ruigrijk",
+        "properties":
+            [
+                "minimum140",
+                "transfernecessary",
+                "pregnantwomen",
+                "injuries",
+                "babyswitch",
+                "dizzy",
+                "closedduringshow",
+                "attractionthrillseekers",
+                "semicoveredattraction",
+                "chickenexit"
+            ]
+    },
+    {
+        "id":"bobbaan",
+        "name":"Bob",
+        "type":"bobsleigh ride",
+        "category":"attraction",
+        "latlon":"51.648029,5.047972",
+        "subtitle":"Wees voorbereid op ijzingwekkende afdalingen",
+        "detail_text":"Met 60 km/u naar beneden? Slinger door bochten en voel hoe de wind langs je gezicht glijdt. In de bobsleebaan bibber je zelfs zonder sneeuw. De Bob is een 524 m lange bobbaan en geschikt voor alle waaghalzen. In principe mag iedereen in deze attractie, maar kinderen onder de 1,20 m moeten begeleid worden door een volwassene en voor zwangere vrouwen is deze attractie niet geschikt. Voor mensen die alleen in deze attractie durven is er een speciale 'single rider wachtrij'. De bobbaan is geopend als de weersomstandigheden het toelaten.",
+        "text":"Bobsleebaan",
+        "image":"/en/-/media/images/app/quickview/attracties/260x400-bob-winter.jpg",
+        "image_detailview1":"/en/-/media/images/app/detailview/attracties/bob/1024x576-bob-winter.jpg",
+        "empire":"Anderrijk",
+        "properties":
+            [
+                "transfernecessary",
+                "120undersupervision",
+                "babyswitch",
+                "injuries",
+                "pregnantwomen",
+                "attractionthrillseekers",
+                "closedduringshow",
+                "outdoorattraction",
+                "babiesnotallowed"
+            ]
+    },
+    {
+        "id":"bobsingleriders",
+        "name":"Bob Single Rider",
+        "type":"bobsleigh ride",
+        "category":"attraction-singlerider",
+        "latlon":"51.647995,5.047545",
+        "subtitle":"Wees voorbereid op ijzingwekkende afdalingen",
+        "detail_text":"\u003cp\u003eIf you are alone or the only person of your group to go in Bob, you can join this queue. Lurch round the bends at nearly 40 mph and feel the wind on your face. In this one third of a mile long bobsleigh run you can shiver even without snow. Duration: 2 minutes.\u003c/p\u003e",
+        "text":"Bobsleebaan",
+        "image":"/en/-/media/images/app/quickview/attracties/260x400-bob-winter.jpg",
+        "image_detailview1":"/en/-/media/images/app/detailview/attracties/bob/1024x576-bob-winter.jpg",
+        "empire":"Anderrijk",
+        "properties":
+            [
+                "transfernecessary",
+                "minimum120",
+                "babyswitch",
+                "injuries",
+                "pregnantwomen",
+                "attractionthrillseekers",
+                "closedduringshow",
+                "outdoorattraction"]
+    },
+    {
+        "id":"carnavalfestival",
+        "name":"Carnaval Festival",
+        "type":"Dark ride",
+        "category":"attraction",
+        "latlon":"51.652302,5.052267",
+        "subtitle":"Reis de wereld over met Jokie & Jet ",
+        "detail_text":"Deel vreugde en geluk met elkaar en ontmoet vrolijke mensen. Jokie & Jet nemen je mee op reis naar verschillende landen! Maak kennis met diverse culturen en feest mee met alle rode neuzen ter wereld. Ontdek de verschillen en overeenkomsten in Carnaval Festival.",
+        "text":"Overdekte attractie",
+        "image":"/en/-/media/images/app/quickview/attracties/260x400-carnaval-festival-winter.jpg",
+        "image_detailview1":"/en/-/media/images/app/detailview/attracties/carnaval-festival/1024x576-carnaval-festival-winter.jpg",
+        "image_detailview2":"/en/-/media/images/app/detailview/attracties/carnaval-festival/1024x576-carnaval-festival2.jpg",
+        "image_detailview3":"/en/-/media/images/app/detailview/attracties/carnaval-festival/gallery-1.jpg",
+        "empire":"Reizenrijk",
+        "properties":
+            [
+                "transfernecessary",
+                "100undersupervision",
+                "attractionforfamiliy",
+                "babyswitch",
+                "indoorattraction",
+                "assistancedogs"
+            ]
+    },
+    {
+        "id":"carrouselsantonpieckplein",
+        "name":"Anton Pieck Plein",
+        "type":"Historic carousels",
+        "category":"attraction",
+        "latlon":"51.652733,5.049869",
+        "language":"en",
+        "subtitle":"Efteling’s meest authentieke plek",
+        "detail_text":"Op een Oud-Hollands dorpsplein vliegen de zweefmolens je om de oren. Geniet ouderwets gezellig van alle attracties en lekkernijen verkrijgbaar bij de verschillende restaurants en automatieken. Voor zowel groot als klein is het Anton Pieck Plein fijn om te bezoeken.",
+        "text":"Efteling’s meest authentieke plek",
+        "image":"/en/-/media/images/app/quickview/attracties/260x400-anton-pieck-plein-winter.jpg",
+        "image_detailview1":"/en/-/media/images/app/detailview/attracties/anton-pieckplein/1024x576-anton-pieck-plein-winter.jpg",
+        "image_detailview2":"/en/-/media/images/app/detailview/attracties/anton-pieckplein/gallery-1.jpg",
+        "image_detailview3":"/en/-/media/images/app/detailview/attracties/anton-pieckplein/gallery-2.jpg",
+        "empire":"Marerijk",
+        "properties":
+            [
+                "transfernecessary",
+                "100undersupervision",
+                "attractionforfamiliy",
+                "outdoorattraction",
+                "babyswitch",
+                "assistancedogs"
+            ]
+    },
+    {
+        "id":"doudetuffer",
+        "name":"De Oude Tufferbaan",
+        "type":"Oldtimerbaan",
+        "category":"attraction",
+        "latlon":"51.648869,5.053921",
+        "subtitle":"Een ritje terug in de tijd",
+        "detail_text":"Over heuvels en langs dalen passeer je bruggen en vijvers in een oude T-Ford. Rijd in een gele, blauwe of rode oldtimer met 6,5 km/u langs bloemperken en door graanschuren. Op De Oude Tufferbaan mag iedereen autorijden. Zelfs de kleinsten onder ons.",
+        "text":"Oldtimer track",
+        "image":"/en/-/media/images/app/quickview/attracties/260x400-de-oude-tufferbaan-winter.jpg",
+        "image_detailview1":"/en/-/media/images/app/detailview/attracties/de-oude-tufferbaan/1024x576-de-oude-tufferbaan-winter.jpg",
+        "empire":"Ruigrijk",
+        "properties":
+            [
+                "transfernecessary",
+                "120undersupervision",
+                "attractionforfamiliy",
+                "outdoorattraction",
+                "babyswitch",
+                "assistancedogs"
+            ]
+    },
+    {
+        "id":"devliegendehollander",
+        "name":"De Vliegende Hollander",
+        "type":"Waterachtbaan",
+        "category":"attraction",
+        "latlon":"51.647411,5.052354",
+        "subtitle":"Stap jij aan boord van dit eeuwenoude spookschip?",
+        "detail_text":"Ondanks slechte weersomstandigheden voer kapitein Willem van der Decken uit met zijn schip De Hollander, op zoek naar rijkdom. Zijn hebzucht was zo groot dat hij zijn bemanning beval op eerste Paasdag uit te varen, ook al was dat verboden. Sindsdien is eenieder aan boord gedoemd voor eeuwig te blijven varen over de zeven wereldzeeën. Tot op de dag van vandaag wordt het schip met zijn felrode zeilen waar dan ook ter wereld gezien… Men noemt het nu De Vliegende Hollander!",
+        "text":"Water-rollercoaster",
+        "image":"/en/-/media/images/app/quickview/attracties/260x400-quickview-vliegende-hollander-waterachtbaan.jpg",
+        "image_detailview1":"/en/-/media/images/app/detailview/attracties/de-vliegende-hollander/1024x576-de-vliegende-hollander-waterachtbaan.jpg",
+        "image_detailview2":"/en/-/media/images/app/detailview/attracties/de-vliegende-hollander/gallery-2.jpg",
+        "image_detailview3":"/en/-/media/images/app/detailview/attracties/de-vliegende-hollander/gallery-3.jpg",
+        "empire":"Ruigrijk",
+        "properties":
+            [
+                "transfernecessary",
+                "minimum120",
+                "dizzy",
+                "babyswitch",
+                "pregnantwomen",
+                "attractionthrillseekers",
+                "semicoveredattraction",
+                "closedduringshow",
+                "wet"
+            ]
+    },
+    {
+        "id":"diorama",
+        "name":"Diorama",
+        "type":"Miniatuurwereld",
+        "category":"attraction",
+        "latlon":"51.650894,5.048583",
+        "subtitle":"Bezoek een wereld van miniatuur",
+        "detail_text":"Kijk hoe de treintjes voorbij komen in deze betoverende wereld waar dag en nacht elkaar afwisselen. Ontdek hoe de kleine dorpjes, omgeven door bergen en rivieren, tot leven komen. Vind alle bewoners tijdens hun dagelijkse bezigheden. In deze indoor attractie Diorama is iedereen welkom. ",
+        "text":"Miniature world",
+        "image":"/en/-/media/images/app/quickview/attracties/diorama-quickview2x.jpg",
+        "image_detailview1":"/en/-/media/images/app/detailview/attracties/diorama/gallery-1.jpg",
+        "image_detailview2":"/en/-/media/images/app/detailview/attracties/diorama/1024x576-diorama2.jpg",
+        "empire":"Marerijk",
+        "properties":
+            [
+                "attractionforfamiliy",
+                "indoorattraction",
+                "easilyaccessiblewheelchairs",
+                "assistancedogs"
+            ]
+    },
+    {
+        "id":"droomvlucht",
+        "name":"Droomvlucht",
+        "type":"dark ride",
+        "category":"attraction",
+        "latlon":"51.65266,5.046748",
+        "language":"en",
+        "subtitle":"Dromen met je ogen open",
+        "detail_text":"In deze betoverende wereld met elfen en trollen komen eenhoorns en bosdieren tot leven. En wanneer de nacht valt, zweven de steden gewichtloos door de duisternis. Tot het daglicht terugkeert en iedereen in het betoverende bos weer gelukkig ontwaakt in deze indoor attractie Droomvlucht.",
+        "text":"Covered attraction",
+        "image":"/en/-/media/images/app/quickview/attracties/260x400-droomvlucht.jpg",
+        "image_detailview1":"/en/-/media/images/app/detailview/attracties/droomvlucht/1024x576-droomvlucht.jpg",
+        "image_detailview2":"/en/-/media/images/app/detailview/attracties/droomvlucht/1024x576-droomvlucht2.jpg",
+        "image_detailview3":"/en/-/media/images/app/detailview/attracties/droomvlucht/gallery-5.jpg",
+        "empire":"Marerijk",
+        "properties":
+            [
+                "notaccessiblewheelchairs",
+                "100undersupervision",
+                "attractionforfamiliy",
+                "babyswitch",
+                "indoorattraction",
+                "assistancedogs"
+            ]
+    },
+    {
+        "id":"virtueledroomvlucht",
+        "name":"Droomvlucht VR",
+        "type":"Especially for guests with a disability",
+        "category":"attractionextra",
+        "latlon":"51.652204,5.046231",
+        "subtitle":"Dreaming with open eyes",
+        "detail_text":"\u003cp\u003eDisabled visitors can also enjoy the attraction with Virtual Droomvlucht. All senses are stimulated by virtual reality, music, scents and wind. Moreover, visitors are connected with their group in the regular attraction by headphones and microphones, so they can experience this enchanting attraction together.\u003c/p\u003e \u003cp\u003eGo with your whole group to Virtual Droomvlucht first to enjoy this attraction together.\u003c/p\u003e",
+        "text":"Especially for guests with a disability",
+        "image":"/en/-/media/images/app/quickview/attracties/260x400-virtuele-droomvlucht-vr.jpg",
+        "image_detailview1":"/en/-/media/images/app/detailview/attracties/droomvlucht/1024x576-virtuele-droomvlucht-efteling.jpg",
+        "image_detailview2":"/en/-/media/images/app/detailview/attracties/droomvlucht/1024x576-virtuele-droomvlucht-efteling2.jpg",
+        "image_detailview3":"/en/-/media/images/app/detailview/attracties/droomvlucht/1024x576-virtuele-droomvlucht-efteling3.jpg",
+        "empire":"Marerijk",
+        "properties":
+            [
+                "indoorattraction",
+                "easilyaccessiblewheelchairs"
+            ]
+    },
+    {
+        "id":"eftelingmuseum",
+        "name":"Efteling Museum",
+        "type":"Museum",
+        "category":"attraction",
+        "latlon":"51.652092,5.049548",
+        "subtitle":"In the secret Wonder Depot",
+        "detail_text":"\u003cp\u003eIn this secret warehouse of wonder you will find out all there is to know about the more than 60 year history of Efteling. Step inside and explore!\u003c/p\u003e",
+        "text":"Marvellous museum",
+        "image":"/en/-/media/images/app/quickview/attracties/260x400-efteling-museum.jpg",
+        "image_detailview1":"/en/-/media/images/app/detailview/attracties/efteling-museum/1024x576-efteling-musuem.jpg",
+        "image_detailview2":"/en/-/media/images/app/detailview/attracties/efteling-museum/1024x576-efteling-musuem2.jpg",
+        "empire":"Marerijk",
+        "properties":
+            [
+                "attractionforfamiliy",
+                "indoorattraction",
+                "easilyaccessiblewheelchairs",
+                "assistancedogs"
+            ]
+    },
+    {
+        "id":"fatamorgana",
+        "name":"Fata Morgana",
+        "type":"dark ride",
+        "category":"attraction",
+        "latlon":"51.647053,5.045715",
+        "subtitle":"This Forbidden City carries many secrets",
+        "detail_text":"\u003cp\u003eTake a boat ride through the Forbidden City! This attraction may be very frightening for small children, who therefore have to be accompanied by an adult. Duration: 8 minutes. Wheelchair access: to the right of the attraction entrance.\u003c/p\u003e",
+        "text":"Covered attraction",
+        "image":"/en/-/media/images/app/quickview/attracties/260x400-fata-morgana.jpg",
+        "image_detailview1":"/en/-/media/images/app/detailview/attracties/fata-morgana/1024x576-fata-morgana.jpg",
+        "image_detailview2":"/en/-/media/images/app/detailview/attracties/fata-morgana/gallery-2.jpg",
+        "image_detailview3":"/en/-/media/images/app/detailview/attracties/fata-morgana/gallery-3.jpg",
+        "empire":"Anderrijk",
+        "properties":
+            [
+                "transfernecessary",
+                "120undersupervision",
+                "anxiouseffects",
+                "babyswitch",
+                "indoorattraction",
+                "attractionforfamiliy",
+                "assistancedogs"
+            ]
+    },
+    {
+        "id":"gamegallery",
+        "name":"Game Gallery",
+        "type":"Game Gallery",
+        "category":"attraction",
+        "latlon":"51.648235,5.053014",
+        "subtitle":"Win a prize",
+        "detail_text":"\u003cp\u003eAn old-fashioned outdoor fairground. Pay to play games for a chance at winning terrific prizes. There is also a sweets shop. And there is a photo studio where you take lovely photos with a real Efteling background.\u003c/p\u003e",
+        "text":"Fairground games",
+        "image":"/en/-/media/images/app/quickview/attracties/260x400-quickview-game-gallery.jpg",
+        "image_detailview1":"/en/-/media/images/app/detailview/attracties/game-gallery/1024x576-game-gallery-2.jpg",
+        "image_detailview2":"/en/-/media/images/app/detailview/attracties/game-gallery/gallery-2.jpg",
+        "empire":"Ruigrijk",
+        "properties":
+            [
+                "attractionforfamiliy",
+                "outdoorattraction"
+            ]
+    },
+    {
+        "id":"gondoletta",
+        "name":"Gondoletta",
+        "type":"Boat ride",
+        "category":"attraction",
+        "latlon":"51.650581,5.051335",
+        "subtitle":"Get carried away",
+        "detail_text":"\u003cp\u003eGlide through a magical landscape and relax. The vegetation has been specially designed to naturally attract animals. Duration: 20 minutes. This attraction closes after sunset. Wheelchair access: report to the left of the exit from this attraction. An employee will then come to meet you.\u003c/p\u003e",
+        "text":"Boat ride",
+        "image":"/en/-/media/images/app/quickview/attracties/260x400-gondoletta-winter-efteling.jpg",
+        "image_detailview1":"/en/-/media/images/app/detailview/attracties/gondoletta/1024x576-gondoletta-winter.jpg",
+        "empire":"Reizenrijk",
+        "properties":
+            [
+                "transfernecessary",
+                "120undersupervision",
+                "attractionforfamiliy",
+                "semicoveredattraction",
+                "assistancedogs"
+            ]
+    },
+    {
+        "id":"halvemaen",
+        "name":"Halve Maen",
+        "type":"Swinging ship",
+        "category":"attraction",
+        "latlon":"51.64864,5.05309",
+        "subtitle":"A swinging flight",
+        "detail_text":"\u003cp\u003eFeel weightless while the largest swinging ship on earth goes up and down. Do you dare to board? Children smaller than 1.20 m must be accompanied. Duration: 2-3 minutes.   Wheelchair access: via a dedicated path, next to the usual entrance to this attraction.\u003c/p\u003e",
+        "text":"Swinging ship",
+        "image":"/en/-/media/images/app/quickview/attracties/260x400-halve-maen-winter-efteling.jpg",
+        "image_detailview1":"/en/-/media/images/app/detailview/attracties/halve-maen/1024x576-halve-maen-winter-efteling.jpg",
+        "image_detailview2":"/en/-/media/images/app/detailview/attracties/halve-maen/1024x576-halve-maen-winter.jpg",
+        "empire":"Ruigrijk",
+        "properties":
+            [
+                "transfernecessary",
+                "120undersupervision",
+                "dizzy",
+                "babyswitch",
+                "pregnantwomen",
+                "attractionthrillseekers",
+                "injuries",
+                "outdoorattraction",
+                "babiesnotallowed"
+            ]
+    },
+    {
+        "id":"jorisendedraak",
+        "name":"Joris en de Draak",
+        "type":"Wooden roller coaster",
+        "category":"attraction",
+        "latlon":"51.646866,5.052788",
+        "subtitle":"Can you defeat the dragon?",
+        "detail_text":"\u003cp\u003e\u003cspan style\u003d\"font-weight: lighter;\"\u003eA superfast wooden racer rollercoaster in which you take on another team of daredevils at more than 45 miles per hour! You have to be at least 1.10 m for this attraction. Duration: 2 minutes. Wheelchair access: via the exit from this attraction. This is located to the right of the photo point, in front of the steps on the left.\u003c/span\u003e\u003c/p\u003e","text":"Wooden rollercoaster",
+        "image":"/en/-/media/images/app/quickview/attracties/260x400-joris-en-de-draak.jpg",
+        "image_detailview1":"/en/-/media/images/app/detailview/attracties/joris-en-de-draak/1024x576-joris-en-de-draak.jpg",
+        "image_detailview2":"/en/-/media/images/app/detailview/attracties/joris-en-de-draak/gallery-1.jpg",
+        "image_detailview3":"/en/-/media/images/app/detailview/attracties/joris-en-de-draak/gallery-2.jpg",
+        "empire":"Ruigrijk",
+        "properties":
+            [
+                "transfernecessary",
+                "minimum110",
+                "120undersupervision",
+                "babyswitch",
+                "pregnantwomen",
+                "attractionthrillseekers",
+                "dizzy",
+                "injuries",
+                "closedduringshow",
+                "outdoorattraction"
+            ]
+    },
+    {
+        "id":"kinderspoor",
+        "name":"Kinderspoor",
+        "type":"pedal trains",
+        "category":"attraction",
+        "latlon":"51.649727,5.053526",
+        "subtitle":"Chug along",
+        "detail_text":"\u003cp\u003eToodle along through fields and barns. How fast you depends on how hard you want to work in these pedal trains. A fun attraction for the smallest once.\u003c/p\u003e",
+        "text":"Pedal trains",
+        "image":"/en/-/media/images/app/quickview/attracties/260x400-kinderspoor.jpg",
+        "image_detailview1":"/en/-/media/images/app/detailview/attracties/kinderspoor/1024x576-kinderspoor.jpg",
+        "image_detailview2":"/en/-/media/images/app/detailview/attracties/kinderspoor/1024x576-kinderspoor2.jpg",
+        "empire":"Ruigrijk",
+        "properties":
+            [
+                "attractionforchildren",
+                "120undersupervision",
+                "transfernecessary",
+                "outdoorattraction",
+                "babyswitch",
+                "assistancedogs"
+            ]
+    },
+    {
+        "id":"kindervreugd",
+        "name":"Kindervreugd",
+        "type":"playground",
+        "category":"attraction",
+        "latlon":"51.653088,5.047781",
+        "subtitle":"Endless fun",
+        "detail_text":"\u003cp\u003eIn the playground built in the style of Anton Pieck you will find manual roundabouts, seesaws, rolling tuns, swings, animal roundabout, slides and teeter-totters!\u003c/p\u003e",
+        "text":"Children\u0027s playground",
+        "image":"/en/-/media/images/app/quickview/attracties/260x400-kinder-vreugd-winter.jpg",
+        "image_detailview1":"/en/-/media/images/app/detailview/attracties/kindervreugd/1024x576-kinder-vreugd-winter.jpg",
+        "image_detailview2":"/en/-/media/images/app/detailview/attracties/kindervreugd/1024x576-kindervreugd2.jpg",
+        "empire":"Marerijk",
+        "properties":
+            [
+                "attractionforchildren",
+                "outdoorattraction",
+                "assistancedogs"
+            ]
+    },
+    {
+        "id":"kleuterhof",
+        "name":"Kleuterhof",
+        "type":"playground",
+        "category":"attraction",
+        "latlon":"51.651745,5.053839",
+        "subtitle":"Fun for little tots",
+        "detail_text":"\u003cp\u003eA children\u0027s playground for the littlest ones. With a train-roundabout, yellow bear and many seesaws. All equipment in this open air playground are equipped with soft falling mats!\u003c/p\u003e",
+        "text":"Children\u0027s playground",
+        "image":"/en/-/media/images/app/quickview/attracties/260x400-quickview-kleuterhof.jpg",
+        "image_detailview1":"/en/-/media/images/app/detailview/attracties/kleuterhof/1024x576-kleuterhof.jpg",
+        "empire":"Reizenrijk",
+        "showduration":"0",
+        "properties":
+            [
+                "attractionforchildren",
+                "outdoorattraction",
+                "assistancedogs"
+            ]
+    }
+]}

@@ -1,40 +1,56 @@
 import React, { Component } from 'react';
 import { BrowserRouter, Switch, Route } from 'react-router-dom'
-import NavNar from './components/layout/NavBar'
+import NavBar from './components/layout/NavBar'
 import Dashboard from './components/dashboard/Dashboard'
 import AttractionDashboard from './components/dashboard/AttractionDashboard'
 import ShowDashboard from './components/dashboard/ShowDashboard'
-import AttractionDetails from './components/attractions/AttractionDetails'
+import AttractionDetails from './components/items/ItemDetails'
+
+// JSON
+import PoiRaw from './data/newpoi'
 
 class App extends Component {
   state = {
-    AttractionStats: [],
-    AttractionStatsLoading: true,
-    AttractionInfo: [],
-    AttractionInfoLoading: true,
+    attractionData: [],
+    metaData: [],
     loading: true,
   }
 
-  componentDidUpdate() {
-    if (this.state.AttractionStatsLoading === false && this.state.AttractionInfoLoading === false && this.state.loading !== false) {
-      this.setState({
-        loading: false
-      })
-      console.log(this.state);
-    }
-  }
-
   componentDidMount() {
+    let ApiData = [];
+    let MetaData = [];
+    const PoiData = PoiRaw.PoiInfo;
+    let newData = [];
+
     fetch('https://eftelingapi.herokuapp.com/attractions')
       .then(response => response.json())
-      .then(data => this.setState({ AttractionStats : [...data.AttractionInfo], AttractionStatsLoading: false  }))
-      .then(() => console.log(this.state))
-      ;
-      fetch('https://eftelingapi.herokuapp.com/poi')
-      .then(response => response.json())
-      .then(data => this.setState({ AttractionInfo : [...data.PoiInfo], AttractionInfoLoading: false  }))
-      .then(() => console.log(this.state))
-      ;
+      .then((data) => {
+        ApiData = data.AttractionInfo;
+      })
+      .then (() => {
+        newData = PoiData.map(itm => 
+        ({ ...ApiData.find((item) =>
+        (item.Id === itm.id) && item), ...itm }));
+        
+      })
+      .then(() => {
+        fetch('https://eftelingapi.herokuapp.com/metadata')
+        .then(response => response.json())
+        .then((data) => {
+          MetaData = data.OpeningHours;
+        })
+        .then (() => {
+          this.setState({
+            attractionData: newData,
+            metaData: MetaData,
+            loading: false
+          })
+        })
+        
+      })
+      
+      .catch((err) => console.log("Gathering Realtime Data failed: " + err));
+      
   };
 
   render() {
@@ -46,12 +62,12 @@ class App extends Component {
       return (
         <BrowserRouter>
           <div className="App">
-            <NavNar />
+            <NavBar metaData={this.state.metaData}/>
               <Switch>
               <Route 
                 exact path='/'
                 render={(props) => (
-                  <Dashboard {...props} stats={this.state.AttractionStats} info={this.state.AttractionInfo} loading={this.state.loading}/>
+                  <Dashboard {...props} attractionData={this.state.attractionData} loading={this.state.loading}/>
                 )}
                 />
               <Route 
@@ -69,7 +85,7 @@ class App extends Component {
               <Route
                 path='/attraction/:Id'
                 render={(props) => (
-                  <AttractionDetails {...props} attractionStats={this.state.AttractionStats} attractionInfo={this.state.AttractionInfo} loading={this.state.loading}/>
+                  <AttractionDetails {...props} attractionData={this.state.attractionData} loading={this.state.loading}/>
                 )}
                 />
               <Route
