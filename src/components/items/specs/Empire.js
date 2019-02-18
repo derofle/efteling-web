@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 
 const Empire = ({empire}) => {
     let color;
@@ -17,8 +18,12 @@ const Empire = ({empire}) => {
     if (empire === "Reizenrijk") {
         color = "orange darken-1"
     }
+
+    const empireLink = empire.toLowerCase();
     return (
+        <Link to={'/'+ empireLink}>
          <p className={"white-text center-align btn " + color}>{empire}</p>
+        </Link>
     )
 }
 
