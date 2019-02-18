@@ -1,1 +1,1623 @@
-{"AttractionInfo":[{"Id":"sprookjesbos","Type":"Attraction","MapLocation":"1","State":"open","StateColor":"green","WaitingTime":0,"StatePercentage":0,"OpeningTimes":[]},{"Id":"harmonievandrie","Type":"Show","MapLocation":".","State":"gesloten","StateColor":"clear","PastShowTimes":[],"OpeningTimes":[]},{"Id":"ontmoeteftelingbewoners","Type":"Show","MapLocation":"33","State":"open","StateColor":"green","ShowTimes":[],"PastShowTimes":[{"ShowDateTime":"2019-02-15T10:30:00"}],"OpeningTimes":[]},{"Id":"stichtinglezenenschrijven","Type":"Show","MapLocation":"3","State":"gesloten","StateColor":"clear","PastShowTimes":[],"OpeningTimes":[]},{"Id":"hetwinterlicht","Type":"Show","MapLocation":".","State":"gesloten","StateColor":"clear","PastShowTimes":[],"OpeningTimes":[]},{"Id":"eenwonderlijkeontmoetingmetruiterthomas","Type":"Show","MapLocation":".","State":"gesloten","StateColor":"clear","PastShowTimes":[],"OpeningTimes":[]},{"Id":"pardoesdetovernar","Type":"Show","MapLocation":".","State":"open","StateColor":"green","ShowTimes":[{"ShowDateTime":"2019-02-15T14:00:00"},{"ShowDateTime":"2019-02-15T15:00:00"},{"ShowDateTime":"2019-02-15T16:00:00"},{"ShowDateTime":"2019-02-15T17:00:00"},{"ShowDateTime":"2019-02-15T18:00:00"}],"PastShowTimes":[{"ShowDateTime":"2019-02-15T10:30:00"},{"ShowDateTime":"2019-02-15T11:30:00"},{"ShowDateTime":"2019-02-15T12:30:00"}],"OpeningTimes":[]},{"Id":"fotopuntsymbolica","Type":"Merchandise","MapLocation":"..","OpeningHours":"10:30 - 18:00","State":"open","StateColor":"green","OpeningTimes":[{"Date":"2019-02-15T00:00:00","Description":"unused","HourFrom":"2019-02-15T10:30:00","HourTo":"2019-02-15T18:00:00"}]},{"Id":"smalltalktonvandevenplein","Type":"Show","MapLocation":".","State":"gesloten","StateColor":"clear","PastShowTimes":[],"OpeningTimes":[]},{"Id":"smalltalkwittepaardplein","Type":"Show","MapLocation":".","State":"gesloten","StateColor":"clear","PastShowTimes":[],"OpeningTimes":[]},{"Id":"lichtpuntjessteenbokplein","Type":"Show","MapLocation":".","State":"gesloten","StateColor":"clear","PastShowTimes":[],"OpeningTimes":[]},{"Id":"sprookjesboomzingendansmee","Type":"Show","MapLocation":".","State":"open","StateColor":"green","ShowTimes":[],"PastShowTimes":[{"ShowDateTime":"2019-02-15T10:30:00"},{"ShowDateTime":"2019-02-15T12:00:00"}],"OpeningTimes":[]},{"Id":"antonpieckplein","Type":"Parkeventlocation","MapLocation":".","State":"gesloten","StateColor":"clear","PastShowTimes":[],"OpeningTimes":[]},{"Id":"jrgenfreilich","Type":"Show","MapLocation":".","State":"gesloten","StateColor":"clear","PastShowTimes":[],"OpeningTimes":[]},{"Id":"eftelingkidsradiolive","Type":"Show","MapLocation":".","State":"gesloten","StateColor":"clear","PastShowTimes":[],"OpeningTimes":[]},{"Id":"oudennieuwtheoriginals","Type":"Show","MapLocation":".","State":"gesloten","StateColor":"clear","PastShowTimes":[],"OpeningTimes":[]},{"Id":"fatamorganaplein","Type":"Parkeventlocation","MapLocation":"..","State":"gesloten","StateColor":"clear","PastShowTimes":[],"OpeningTimes":[]},{"Id":"piranaplein","Type":"Parkeventlocation","MapLocation":"..","State":"gesloten","StateColor":"clear","PastShowTimes":[],"OpeningTimes":[]},{"Id":"hetwapenvanraveleijn","Type":"Horeca","MapLocation":"H1","State":"gesloten","StateColor":"clear","OpeningTimes":[]},{"Id":"hartenhof","Type":"Parkeventlocation","MapLocation":"..","State":"gesloten","StateColor":"clear","PastShowTimes":[],"OpeningTimes":[]},{"Id":"hetwapenvanraveleijnlunch","Type":"Horeca","MapLocation":".","State":"gesloten","StateColor":"clear","OpeningTimes":[]},{"Id":"kleyneklaroen","Type":"Horeca","MapLocation":"..","OpeningHours":"11:00 - 17:00","State":"open","StateColor":"green","OpeningTimes":[{"Date":"2019-02-15T00:00:00","Description":"unused","HourFrom":"2019-02-15T11:00:00","HourTo":"2019-02-15T17:00:00"}]},{"Id":"denguldengaarde","Type":"Horeca","MapLocation":"H18","OpeningHours":"11:00 - 18:00","State":"open","StateColor":"green","OpeningTimes":[{"Date":"2019-02-15T00:00:00","Description":"unused","HourFrom":"2019-02-15T11:00:00","HourTo":"2019-02-15T18:00:00"}]},{"Id":"unoxkraamtonvandevenplein","Type":"Horeca","MapLocation":".","OpeningHours":"13:00 - 17:00","State":"open","StateColor":"green","OpeningTimes":[{"Date":"2019-02-15T00:00:00","Description":"unused","HourFrom":"2019-02-15T13:00:00","HourTo":"2019-02-15T17:00:00"}]},{"Id":"ijsdonutchalet","Type":"Horeca","MapLocation":".","State":"gesloten","StateColor":"clear","OpeningTimes":[]},{"Id":"eigenheymertonvandevenplein","Type":"Horeca","MapLocation":".","OpeningHours":"13:00 - 16:00","State":"open","StateColor":"green","OpeningTimes":[{"Date":"2019-02-15T00:00:00","Description":"unused","HourFrom":"2019-02-15T13:00:00","HourTo":"2019-02-15T16:00:00"}]},{"Id":"hoorndesovervloeds","Type":"Horeca","MapLocation":"..","State":"gesloten","StateColor":"clear","OpeningTimes":[]},{"Id":"smulpaap","Type":"Horeca","MapLocation":"H9","OpeningHours":"12:00 - 17:00","State":"open","StateColor":"green","OpeningTimes":[{"Date":"2019-02-15T00:00:00","Description":"unused","HourFrom":"2019-02-15T12:00:00","HourTo":"2019-02-15T17:00:00"}]},{"Id":"jokieswereld","Type":"Merchandise","MapLocation":"S5","OpeningHours":"12:00 - 17:00","State":"open","StateColor":"green","OpeningTimes":[{"Date":"2019-02-15T00:00:00","Description":"unused","HourFrom":"2019-02-15T12:00:00","HourTo":"2019-02-15T17:00:00"}]},{"Id":"kinderspoor","Type":"Attraction","MapLocation":"41","State":"open","StateColor":"green","WaitingTime":0,"StatePercentage":0,"OpeningTimes":[]},{"Id":"sprookjesboomshow","Type":"Show","MapLocation":"2","State":"open","StateColor":"green","ShowTimes":[{"ShowDateTime":"2019-02-15T14:00:00"},{"ShowDateTime":"2019-02-15T15:00:00"},{"ShowDateTime":"2019-02-15T16:00:00"}],"PastShowTimes":[{"ShowDateTime":"2019-02-15T13:00:00"}],"OpeningTimes":[]},{"Id":"wafelsalondensuykerbuyk","Type":"Horeca","MapLocation":".","OpeningHours":"12:00 - 17:00","State":"open","StateColor":"green","OpeningTimes":[{"Date":"2019-02-15T00:00:00","Description":"unused","HourFrom":"2019-02-15T12:00:00","HourTo":"2019-02-15T17:00:00"}]},{"Id":"foodlaan","Type":"Horeca","MapLocation":".","State":"gesloten","StateColor":"clear","OpeningTimes":[]},{"Id":"pizzachalet","Type":"Horeca","MapLocation":".","State":"gesloten","StateColor":"clear","OpeningTimes":[]},{"Id":"unoxkraamvogelrokplein","Type":"Horeca","MapLocation":".","OpeningHours":"12:00 - 16:30","State":"open","StateColor":"green","OpeningTimes":[{"Date":"2019-02-15T00:00:00","Description":"unused","HourFrom":"2019-02-15T12:00:00","HourTo":"2019-02-15T16:30:00"}]},{"Id":"hetwittepaard","Type":"Horeca","MapLocation":"H6","OpeningHours":"11:00 - 18:00","State":"open","StateColor":"green","OpeningTimes":[{"Date":"2019-02-15T00:00:00","Description":"unused","HourFrom":"2019-02-15T11:00:00","HourTo":"2019-02-15T18:00:00"}]},{"Id":"happinessstationwp","Type":"Horeca","MapLocation":"H6","OpeningHours":"12:00 - 16:00","State":"open","StateColor":"green","OpeningTimes":[{"Date":"2019-02-15T00:00:00","Description":"unused","HourFrom":"2019-02-15T12:00:00","HourTo":"2019-02-15T16:00:00"}]},{"Id":"tpoffertje","Type":"Horeca","MapLocation":"H2","OpeningHours":"12:00 - 16:00","State":"open","StateColor":"green","OpeningTimes":[{"Date":"2019-02-15T00:00:00","Description":"unused","HourFrom":"2019-02-15T12:00:00","HourTo":"2019-02-15T16:00:00"}]},{"Id":"gelaarsdekat","Type":"Horeca","MapLocation":"H21","OpeningHours":"11:30 - 17:00","State":"open","StateColor":"green","OpeningTimes":[{"Date":"2019-02-15T00:00:00","Description":"unused","HourFrom":"2019-02-15T11:30:00","HourTo":"2019-02-15T17:00:00"}]},{"Id":"grootmoederskeuken","Type":"Horeca","MapLocation":"H11","State":"gesloten","StateColor":"clear","OpeningTimes":[]},{"Id":"gamegallery","Type":"Merchandise","MapLocation":"S6","OpeningHours":"12:00 - 17:00","State":"open","StateColor":"green","OpeningTimes":[{"Date":"2019-02-15T00:00:00","Description":"unused","HourFrom":"2019-02-15T12:00:00","HourTo":"2019-02-15T17:00:00"}]},{"Id":"halvemaen","Type":"Attraction","MapLocation":"42","State":"open","StateColor":"green","WaitingTime":0,"StatePercentage":0,"OpeningTimes":[]},{"Id":"sprookjessprokkelaar","Type":"Show","MapLocation":"3","State":"gesloten","StateColor":"clear","PastShowTimes":[],"OpeningTimes":[]},{"Id":"carnavalfestivalplein","Type":"Parkeventlocation","MapLocation":"..","State":"gesloten","StateColor":"clear","PastShowTimes":[],"OpeningTimes":[]},{"Id":"hetsuykerhuys","Type":"Horeca","MapLocation":"0","State":"gesloten","StateColor":"clear","OpeningTimes":[]},{"Id":"panoramalacarte","Type":"Horeca","MapLocation":"H3","OpeningHours":"11:00 - 18:00","State":"open","StateColor":"green","OpeningTimes":[{"Date":"2019-02-15T00:00:00","Description":"unused","HourFrom":"2019-02-15T11:00:00","HourTo":"2019-02-15T18:00:00"}]},{"Id":"panoramaselfservice","Type":"Horeca","MapLocation":"H3","OpeningHours":"11:00 - 15:00","State":"open","StateColor":"green","OpeningTimes":[{"Date":"2019-02-15T00:00:00","Description":"unused","HourFrom":"2019-02-15T11:00:00","HourTo":"2019-02-15T15:00:00"}]},{"Id":"panoramakiosk","Type":"Horeca","MapLocation":".","State":"gesloten","StateColor":"clear","OpeningTimes":[]},{"Id":"korfje","Type":"Horeca","MapLocation":"..","OpeningHours":"10:30 - 18:00","State":"open","StateColor":"green","OpeningTimes":[{"Date":"2019-02-15T00:00:00","Description":"unused","HourFrom":"2019-02-15T10:30:00","HourTo":"2019-02-15T18:00:00"}]},{"Id":"pandashop","Type":"Merchandise","MapLocation":"..","State":"gesloten","StateColor":"clear","OpeningTimes":[]},{"Id":"doudetuffer","Type":"Attraction","MapLocation":"43","State":"open","StateColor":"green","WaitingTime":15,"StatePercentage":10,"OpeningTimes":[]},{"Id":"diorama","Type":"Attraction","MapLocation":"4","State":"open","StateColor":"green","WaitingTime":0,"StatePercentage":0,"OpeningTimes":[]},{"Id":"bontestoet","Type":"Parkeventlocation","MapLocation":"..","State":"gesloten","StateColor":"clear","PastShowTimes":[],"OpeningTimes":[]},{"Id":"polleskeuken","Type":"Horeca","MapLocation":"H4","OpeningHours":"10:30 - 18:15","State":"open","StateColor":"green","OpeningTimes":[{"Date":"2019-02-15T00:00:00","Description":"unused","HourFrom":"2019-02-15T10:30:00","HourTo":"2019-02-15T18:15:00"}]},{"Id":"rondjevandemolen","Type":"Horeca","MapLocation":"H4","OpeningHours":"13:30 - 18:00","State":"open","StateColor":"green","OpeningTimes":[{"Date":"2019-02-15T00:00:00","Description":"unused","HourFrom":"2019-02-15T13:30:00","HourTo":"2019-02-15T18:00:00"}]},{"Id":"degebrandeboon","Type":"Horeca","MapLocation":"H4","State":"gesloten","StateColor":"clear","OpeningTimes":[]},{"Id":"happinessstationpk","Type":"Horeca","MapLocation":"H4","State":"gesloten","StateColor":"clear","OpeningTimes":[]},{"Id":"tokopagode","Type":"Horeca","MapLocation":"..","OpeningHours":"12:00 - 16:00","State":"open","StateColor":"green","OpeningTimes":[{"Date":"2019-02-15T00:00:00","Description":"unused","HourFrom":"2019-02-15T12:00:00","HourTo":"2019-02-15T16:00:00"}]},{"Id":"stoomcarrousel","Type":"Attraction","MapLocation":"5","State":"open","StateColor":"green","WaitingTime":0,"StatePercentage":0,"OpeningTimes":[]},{"Id":"polkamarina","Type":"Attraction","MapLocation":"44","State":"open","StateColor":"green","WaitingTime":0,"StatePercentage":0,"OpeningTimes":[]},{"Id":"debazaar","Type":"Merchandise","MapLocation":"S9","OpeningHours":"10:30 - 18:00","State":"open","StateColor":"green","OpeningTimes":[{"Date":"2019-02-15T00:00:00","Description":"unused","HourFrom":"2019-02-15T10:30:00","HourTo":"2019-02-15T18:00:00"}]},{"Id":"stationdeoost","Type":"Horeca","MapLocation":"H18","OpeningHours":"11:00 - 18:00","State":"open","StateColor":"green","OpeningTimes":[{"Date":"2019-02-15T00:00:00","Description":"unused","HourFrom":"2019-02-15T11:00:00","HourTo":"2019-02-15T18:00:00"}]},{"Id":"eigenheymerbijstationdeoost","Type":"Horeca","MapLocation":".","OpeningHours":"12:00 - 18:00","State":"open","StateColor":"green","OpeningTimes":[{"Date":"2019-02-15T00:00:00","Description":"unused","HourFrom":"2019-02-15T12:00:00","HourTo":"2019-02-15T18:00:00"}]},{"Id":"herautenplein","Type":"Parkeventlocation","MapLocation":"..","State":"gesloten","StateColor":"clear","PastShowTimes":[],"OpeningTimes":[]},{"Id":"delikkebaerd","Type":"Horeca","MapLocation":".","State":"gesloten","StateColor":"clear","OpeningTimes":[]},{"Id":"efteldingen","Type":"Merchandise","MapLocation":"S11","OpeningHours":"10:00 - 19:00","State":"open","StateColor":"green","OpeningTimes":[{"Date":"2019-02-15T00:00:00","Description":"unused","HourFrom":"2019-02-15T10:00:00","HourTo":"2019-02-15T19:00:00"}]},{"Id":"stoomtreinr","Type":"Attraction","MapLocation":"45","OpeningHours":"11:15 - 17:45","State":"open","StateColor":"green","OpeningTimes":[{"Date":"2019-02-15T00:00:00","Description":"unused","HourFrom":"2019-02-15T11:15:00","HourTo":"2019-02-15T17:45:00"}]},{"Id":"stoomtreinm","Type":"Attraction","MapLocation":"6","OpeningHours":"11:00 - 18:00","State":"open","StateColor":"green","OpeningTimes":[{"Date":"2019-02-15T00:00:00","Description":"unused","HourFrom":"2019-02-15T11:00:00","HourTo":"2019-02-15T18:00:00"}]},{"Id":"dekombuys","Type":"Horeca","MapLocation":"H19","OpeningHours":"11:00 - 17:00","State":"open","StateColor":"green","OpeningTimes":[{"Date":"2019-02-15T00:00:00","Description":"unused","HourFrom":"2019-02-15T11:00:00","HourTo":"2019-02-15T17:00:00"}]},{"Id":"unoxkraamvliegendehollanderplein","Type":"Horeca","MapLocation":".","State":"gesloten","StateColor":"clear","OpeningTimes":[]},{"Id":"demeermin","Type":"Horeca","MapLocation":"..","State":"gesloten","StateColor":"clear","OpeningTimes":[]},{"Id":"flierefluiter","Type":"Horeca","MapLocation":"0","State":"gesloten","StateColor":"clear","OpeningTimes":[]},{"Id":"melkhuysje","Type":"Horeca","MapLocation":"H20","State":"gesloten","StateColor":"clear","OpeningTimes":[]},{"Id":"yoghurtbarbijbaron1898","Type":"Horeca","MapLocation":".","OpeningHours":"10:00 - 18:00","State":"open","StateColor":"green","OpeningTimes":[{"Date":"2019-02-15T00:00:00","Description":"unused","HourFrom":"2019-02-15T10:00:00","HourTo":"2019-02-15T18:00:00"}]},{"Id":"hetseylendfregat","Type":"Horeca","MapLocation":"..","OpeningHours":"11:00 - 18:00","State":"open","StateColor":"green","OpeningTimes":[{"Date":"2019-02-15T00:00:00","Description":"unused","HourFrom":"2019-02-15T11:00:00","HourTo":"2019-02-15T18:00:00"}]},{"Id":"unoxkraampiraaplein","Type":"Horeca","MapLocation":".","State":"gesloten","StateColor":"clear","OpeningTimes":[]},{"Id":"steenbokplein","Type":"Parkeventlocation","MapLocation":"..","State":"gesloten","StateColor":"clear","PastShowTimes":[],"OpeningTimes":[]},{"Id":"tonvandevenplein","Type":"Parkeventlocation","MapLocation":"..","State":"gesloten","StateColor":"clear","PastShowTimes":[],"OpeningTimes":[]},{"Id":"wittewalvis","Type":"Horeca","MapLocation":".","State":"gesloten","StateColor":"clear","OpeningTimes":[]},{"Id":"indenoudenmarskramer","Type":"Merchandise","MapLocation":"S1","OpeningHours":"12:00 - 18:00","State":"open","StateColor":"green","OpeningTimes":[{"Date":"2019-02-15T00:00:00","Description":"unused","HourFrom":"2019-02-15T12:00:00","HourTo":"2019-02-15T18:00:00"}]},{"Id":"python","Type":"Attraction","MapLocation":"46","State":"open","StateColor":"green","WaitingTime":15,"StatePercentage":10,"Timeslot":{"State":"disabled"},"OpeningTimes":[]},{"Id":"casacaracol","Type":"Horeca","MapLocation":".","State":"gesloten","StateColor":"clear","OpeningTimes":[]},{"Id":"pythonsinglerider","Type":"Attraction","MapLocation":"46","State":"gesloten","StateColor":"clear","OpeningTimes":[]},{"Id":"piranabar","Type":"Horeca","MapLocation":".","State":"gesloten","StateColor":"clear","OpeningTimes":[]},{"Id":"vreugdevuurruigrijk","Type":"Horeca","MapLocation":".","State":"gesloten","StateColor":"clear","OpeningTimes":[]},{"Id":"vreugdevuurmarerijk","Type":"Horeca","MapLocation":".","State":"gesloten","StateColor":"clear","OpeningTimes":[]},{"Id":"vreugdevuurreizenrijk","Type":"Horeca","MapLocation":".","State":"gesloten","StateColor":"clear","OpeningTimes":[]},{"Id":"ijspaleishoreca","Type":"Horeca","MapLocation":"13","State":"gesloten","StateColor":"clear","OpeningTimes":[]},{"Id":"droomvlucht","Type":"Attraction","MapLocation":"7","State":"open","StateColor":"green","WaitingTime":0,"StatePercentage":0,"OpeningTimes":[]},{"Id":"virtueledroomvlucht","Type":"Attraction","MapLocation":"7","State":"open","StateColor":"green","WaitingTime":0,"StatePercentage":0,"OpeningTimes":[]},{"Id":"desteenbok","Type":"Horeca","MapLocation":"H65","OpeningHours":"11:30 - 18:30","State":"open","StateColor":"green","OpeningTimes":[{"Date":"2019-02-15T00:00:00","Description":"unused","HourFrom":"2019-02-15T11:30:00","HourTo":"2019-02-15T18:30:00"}]},{"Id":"burgerbackerij","Type":"Horeca","MapLocation":"H67","State":"gesloten","StateColor":"clear","OpeningTimes":[]},{"Id":"stroopwafelchalet","Type":"Horeca","MapLocation":".","OpeningHours":"11:00 - 18:30","State":"open","StateColor":"green","OpeningTimes":[{"Date":"2019-02-15T00:00:00","Description":"unused","HourFrom":"2019-02-15T11:00:00","HourTo":"2019-02-15T18:30:00"}]},{"Id":"eigenheymersteenbokplein","Type":"Horeca","MapLocation":"H68","OpeningHours":"12:00 - 18:30","State":"open","StateColor":"green","OpeningTimes":[{"Date":"2019-02-15T00:00:00","Description":"unused","HourFrom":"2019-02-15T12:00:00","HourTo":"2019-02-15T18:30:00"}]},{"Id":"braadworstchalet","Type":"Horeca","MapLocation":".","State":"gesloten","StateColor":"clear","OpeningTimes":[]},{"Id":"vliegendehollanderplein","Type":"Parkeventlocation","MapLocation":"..","State":"gesloten","StateColor":"clear","PastShowTimes":[],"OpeningTimes":[]},{"Id":"oase","Type":"Horeca","MapLocation":"H66","OpeningHours":"11:00 - 18:30","State":"open","StateColor":"green","OpeningTimes":[{"Date":"2019-02-15T00:00:00","Description":"unused","HourFrom":"2019-02-15T11:00:00","HourTo":"2019-02-15T18:30:00"}]},{"Id":"dromerijen","Type":"Merchandise","MapLocation":"..","OpeningHours":"10:30 - 18:00","State":"open","StateColor":"green","OpeningTimes":[{"Date":"2019-02-15T00:00:00","Description":"unused","HourFrom":"2019-02-15T10:30:00","HourTo":"2019-02-15T18:00:00"}]},{"Id":"raveleijn","Type":"Show","MapLocation":"8","State":"inonderhoud","StateColor":"clear","PastShowTimes":[],"OpeningTimes":[]},{"Id":"devliegendehollander","Type":"Attraction","MapLocation":"47","State":"inonderhoud","StateColor":"clear","OpeningTimes":[]},{"Id":"octopus","Type":"Horeca","MapLocation":"H62","OpeningHours":"10:00 - 18:30","State":"open","StateColor":"green","OpeningTimes":[{"Date":"2019-02-15T00:00:00","Description":"unused","HourFrom":"2019-02-15T10:00:00","HourTo":"2019-02-15T18:30:00"}]},{"Id":"hollandsegebakskraam","Type":"Horeca","MapLocation":"..","OpeningHours":"15:00 - 18:30","State":"open","StateColor":"green","OpeningTimes":[{"Date":"2019-02-15T00:00:00","Description":"unused","HourFrom":"2019-02-15T15:00:00","HourTo":"2019-02-15T18:30:00"}]},{"Id":"devrolijkenoot","Type":"Horeca","MapLocation":"..","OpeningHours":"10:00 - 19:00","State":"open","StateColor":"green","OpeningTimes":[{"Date":"2019-02-15T00:00:00","Description":"unused","HourFrom":"2019-02-15T10:00:00","HourTo":"2019-02-15T19:00:00"}]},{"Id":"loetiek","Type":"Merchandise","MapLocation":"S3","State":"gesloten","StateColor":"clear","OpeningTimes":[]},{"Id":"jorisendedraak","Type":"Attraction","MapLocation":"48","State":"open","StateColor":"green","WaitingTime":15,"StatePercentage":10,"OpeningTimes":[]},{"Id":"jorisendedraaksinglerider","Type":"Attraction","MapLocation":"48","State":"gesloten","StateColor":"clear","OpeningTimes":[]},{"Id":"villavolta","Type":"Attraction","MapLocation":"9","State":"inonderhoud","StateColor":"clear","OpeningTimes":[]},{"Id":"baron1898","Type":"Attraction","MapLocation":"49","State":"open","StateColor":"green","WaitingTime":5,"StatePercentage":3,"OpeningTimes":[]},{"Id":"baron1898singlerider","Type":"Attraction","MapLocation":"49","State":"open","StateColor":"green","WaitingTime":0,"StatePercentage":0,"OpeningTimes":[]},{"Id":"kindervreugd","Type":"Attraction","MapLocation":"10","State":"open","StateColor":"green","WaitingTime":0,"StatePercentage":0,"OpeningTimes":[]},{"Id":"carnavalfestival","Type":"Attraction","MapLocation":"22","State":"open","StateColor":"green","WaitingTime":0,"StatePercentage":0,"OpeningTimes":[]},{"Id":"volkvanlaafmonorail","Type":"Attraction","MapLocation":"11","State":"open","StateColor":"green","WaitingTime":5,"StatePercentage":3,"OpeningTimes":[]},{"Id":"jokieenjet","Type":"Show","MapLocation":"23","State":"gesloten","StateColor":"clear","PastShowTimes":[],"OpeningTimes":[]},{"Id":"volkvanlaaf","Type":"Attraction","MapLocation":"11","State":"open","StateColor":"green","WaitingTime":0,"StatePercentage":0,"OpeningTimes":[]},{"Id":"fotopuntbobbaan","Type":"Merchandise","MapLocation":"30","OpeningHours":"11:00 - 16:00","State":"open","StateColor":"green","OpeningTimes":[{"Date":"2019-02-15T00:00:00","Description":"unused","HourFrom":"2019-02-15T11:00:00","HourTo":"2019-02-15T16:00:00"}]},{"Id":"carrouselsantonpieckplein","Type":"Attraction","MapLocation":"12","State":"open","StateColor":"green","WaitingTime":0,"StatePercentage":0,"OpeningTimes":[]},{"Id":"monsieurcannibale","Type":"Attraction","MapLocation":"24","State":"open","StateColor":"green","WaitingTime":5,"StatePercentage":3,"OpeningTimes":[]},{"Id":"vogelrok","Type":"Attraction","MapLocation":"25","State":"open","StateColor":"green","WaitingTime":5,"StatePercentage":3,"OpeningTimes":[]},{"Id":"eftelingmuseum","Type":"Attraction","MapLocation":"13","State":"open","StateColor":"green","WaitingTime":0,"StatePercentage":0,"OpeningTimes":[]},{"Id":"fotopuntpiraa","Type":"Merchandise","MapLocation":"33","State":"gesloten","StateColor":"clear","OpeningTimes":[]},{"Id":"fotopuntdevliegendehollander","Type":"Merchandise","MapLocation":"28","State":"gesloten","StateColor":"clear","OpeningTimes":[]},{"Id":"avonturendoolhof","Type":"Attraction","MapLocation":"26","State":"open","StateColor":"green","WaitingTime":0,"StatePercentage":0,"OpeningTimes":[]},{"Id":"kleuterhof","Type":"Attraction","MapLocation":"27","State":"open","StateColor":"green","WaitingTime":0,"StatePercentage":0,"OpeningTimes":[]},{"Id":"fotopuntjorisendedraak","Type":"Merchandise","MapLocation":"29","OpeningHours":"13:00 - 16:00","State":"open","StateColor":"green","OpeningTimes":[{"Date":"2019-02-15T00:00:00","Description":"unused","HourFrom":"2019-02-15T13:00:00","HourTo":"2019-02-15T16:00:00"}]},{"Id":"fotopuntpython","Type":"Merchandise","MapLocation":"27","State":"gesloten","StateColor":"clear","OpeningTimes":[]},{"Id":"gondoletta","Type":"Attraction","MapLocation":"28","State":"open","StateColor":"green","WaitingTime":5,"StatePercentage":3,"OpeningTimes":[]},{"Id":"pagode","Type":"Attraction","MapLocation":"29","State":"open","StateColor":"green","WaitingTime":5,"StatePercentage":3,"OpeningTimes":[]},{"Id":"pandadroom","Type":"Attraction","MapLocation":"62","State":"open","StateColor":"green","WaitingTime":10,"StatePercentage":7,"OpeningTimes":[]},{"Id":"fotopuntbaron1898","Type":"Merchandise","MapLocation":"31","State":"gesloten","StateColor":"clear","OpeningTimes":[]},{"Id":"spookslot","Type":"Attraction","MapLocation":"63","State":"open","StateColor":"green","WaitingTime":10,"StatePercentage":7,"OpeningTimes":[]},{"Id":"pirana","Type":"Attraction","MapLocation":"64","State":"inonderhoud","StateColor":"clear","OpeningTimes":[]},{"Id":"bobbaan","Type":"Attraction","MapLocation":"65","State":"open","StateColor":"green","WaitingTime":10,"StatePercentage":7,"OpeningTimes":[]},{"Id":"bobsingleriders","Type":"Attraction","MapLocation":"65","State":"gesloten","StateColor":"clear","OpeningTimes":[]},{"Id":"fatamorgana","Type":"Attraction","MapLocation":"66","State":"open","StateColor":"green","WaitingTime":0,"StatePercentage":0,"OpeningTimes":[]},{"Id":"sprookjesboomerwaseens","Type":"Show","MapLocation":"2","State":"gesloten","StateColor":"clear","PastShowTimes":[],"OpeningTimes":[]},{"Id":"symbolica","Type":"Attraction","MapLocation":"82","State":"open","StateColor":"green","WaitingTime":10,"StatePercentage":7,"OpeningTimes":[]},{"Id":"symbolicasingleriders","Type":"Attraction","MapLocation":"82","State":"open","StateColor":"green","WaitingTime":5,"StatePercentage":3,"OpeningTimes":[]},{"Id":"aquanura","Type":"Show","MapLocation":"84","State":"open","StateColor":"green","ShowTimes":[{"ShowDateTime":"2019-02-15T18:15:00","Edition":"1e Efteling Symfonie"}],"PastShowTimes":[],"OpeningTimes":[]},{"Id":"carrouselpaleiss","Type":"Horeca","MapLocation":"4","State":"gesloten","StateColor":"clear","OpeningTimes":[]},{"Id":"theaterrestaurantapplaus","Type":"Horeca","MapLocation":"H5","State":"gesloten","StateColor":"clear","OpeningTimes":[]},{"Id":"carrouselbar","Type":"Horeca","MapLocation":".","State":"gesloten","StateColor":"clear","OpeningTimes":[]},{"Id":"desoeteinval","Type":"Horeca","MapLocation":"..","OpeningHours":"12:00 - 17:00","State":"open","StateColor":"green","OpeningTimes":[{"Date":"2019-02-15T00:00:00","Description":"unused","HourFrom":"2019-02-15T12:00:00","HourTo":"2019-02-15T17:00:00"}]}]}
+{
+    "AttractionInfo": [
+        {
+            "Id": "sprookjesbos",
+            "Type": "Attraction",
+            "MapLocation": "1",
+            "State": "open",
+            "StateColor": "green",
+            "WaitingTime": 0,
+            "StatePercentage": 0,
+            "OpeningTimes": []
+        },
+        {
+            "Id": "harmonievandrie",
+            "Type": "Show",
+            "MapLocation": ".",
+            "State": "gesloten",
+            "StateColor": "clear",
+            "PastShowTimes": [],
+            "OpeningTimes": []
+        },
+        {
+            "Id": "ontmoeteftelingbewoners",
+            "Type": "Show",
+            "MapLocation": "33",
+            "State": "open",
+            "StateColor": "green",
+            "ShowTimes": [],
+            "PastShowTimes": [
+                {
+                    "ShowDateTime": "2019-02-15T10:30:00"
+                }
+            ],
+            "OpeningTimes": []
+        },
+        {
+            "Id": "stichtinglezenenschrijven",
+            "Type": "Show",
+            "MapLocation": "3",
+            "State": "gesloten",
+            "StateColor": "clear",
+            "PastShowTimes": [],
+            "OpeningTimes": []
+        },
+        {
+            "Id": "hetwinterlicht",
+            "Type": "Show",
+            "MapLocation": ".",
+            "State": "gesloten",
+            "StateColor": "clear",
+            "PastShowTimes": [],
+            "OpeningTimes": []
+        },
+        {
+            "Id": "eenwonderlijkeontmoetingmetruiterthomas",
+            "Type": "Show",
+            "MapLocation": ".",
+            "State": "gesloten",
+            "StateColor": "clear",
+            "PastShowTimes": [],
+            "OpeningTimes": []
+        },
+        {
+            "Id": "pardoesdetovernar",
+            "Type": "Show",
+            "MapLocation": ".",
+            "State": "open",
+            "StateColor": "green",
+            "ShowTimes": [
+                {
+                    "ShowDateTime": "2019-02-15T14:00:00"
+                },
+                {
+                    "ShowDateTime": "2019-02-15T15:00:00"
+                },
+                {
+                    "ShowDateTime": "2019-02-15T16:00:00"
+                },
+                {
+                    "ShowDateTime": "2019-02-15T17:00:00"
+                },
+                {
+                    "ShowDateTime": "2019-02-15T18:00:00"
+                }
+            ],
+            "PastShowTimes": [
+                {
+                    "ShowDateTime": "2019-02-15T10:30:00"
+                },
+                {
+                    "ShowDateTime": "2019-02-15T11:30:00"
+                },
+                {
+                    "ShowDateTime": "2019-02-15T12:30:00"
+                }
+            ],
+            "OpeningTimes": []
+        },
+        {
+            "Id": "fotopuntsymbolica",
+            "Type": "Merchandise",
+            "MapLocation": "..",
+            "OpeningHours": "10:30 - 18:00",
+            "State": "open",
+            "StateColor": "green",
+            "OpeningTimes": [
+                {
+                    "Date": "2019-02-15T00:00:00",
+                    "Description": "unused",
+                    "HourFrom": "2019-02-15T10:30:00",
+                    "HourTo": "2019-02-15T18:00:00"
+                }
+            ]
+        },
+        {
+            "Id": "smalltalktonvandevenplein",
+            "Type": "Show",
+            "MapLocation": ".",
+            "State": "gesloten",
+            "StateColor": "clear",
+            "PastShowTimes": [],
+            "OpeningTimes": []
+        },
+        {
+            "Id": "smalltalkwittepaardplein",
+            "Type": "Show",
+            "MapLocation": ".",
+            "State": "gesloten",
+            "StateColor": "clear",
+            "PastShowTimes": [],
+            "OpeningTimes": []
+        },
+        {
+            "Id": "lichtpuntjessteenbokplein",
+            "Type": "Show",
+            "MapLocation": ".",
+            "State": "gesloten",
+            "StateColor": "clear",
+            "PastShowTimes": [],
+            "OpeningTimes": []
+        },
+        {
+            "Id": "sprookjesboomzingendansmee",
+            "Type": "Show",
+            "MapLocation": ".",
+            "State": "open",
+            "StateColor": "green",
+            "ShowTimes": [],
+            "PastShowTimes": [
+                {
+                    "ShowDateTime": "2019-02-15T10:30:00"
+                },
+                {
+                    "ShowDateTime": "2019-02-15T12:00:00"
+                }
+            ],
+            "OpeningTimes": []
+        },
+        {
+            "Id": "antonpieckplein",
+            "Type": "Parkeventlocation",
+            "MapLocation": ".",
+            "State": "gesloten",
+            "StateColor": "clear",
+            "PastShowTimes": [],
+            "OpeningTimes": []
+        },
+        {
+            "Id": "jrgenfreilich",
+            "Type": "Show",
+            "MapLocation": ".",
+            "State": "gesloten",
+            "StateColor": "clear",
+            "PastShowTimes": [],
+            "OpeningTimes": []
+        },
+        {
+            "Id": "eftelingkidsradiolive",
+            "Type": "Show",
+            "MapLocation": ".",
+            "State": "gesloten",
+            "StateColor": "clear",
+            "PastShowTimes": [],
+            "OpeningTimes": []
+        },
+        {
+            "Id": "oudennieuwtheoriginals",
+            "Type": "Show",
+            "MapLocation": ".",
+            "State": "gesloten",
+            "StateColor": "clear",
+            "PastShowTimes": [],
+            "OpeningTimes": []
+        },
+        {
+            "Id": "fatamorganaplein",
+            "Type": "Parkeventlocation",
+            "MapLocation": "..",
+            "State": "gesloten",
+            "StateColor": "clear",
+            "PastShowTimes": [],
+            "OpeningTimes": []
+        },
+        {
+            "Id": "piranaplein",
+            "Type": "Parkeventlocation",
+            "MapLocation": "..",
+            "State": "gesloten",
+            "StateColor": "clear",
+            "PastShowTimes": [],
+            "OpeningTimes": []
+        },
+        {
+            "Id": "hetwapenvanraveleijn",
+            "Type": "Horeca",
+            "MapLocation": "H1",
+            "State": "gesloten",
+            "StateColor": "clear",
+            "OpeningTimes": []
+        },
+        {
+            "Id": "hartenhof",
+            "Type": "Parkeventlocation",
+            "MapLocation": "..",
+            "State": "gesloten",
+            "StateColor": "clear",
+            "PastShowTimes": [],
+            "OpeningTimes": []
+        },
+        {
+            "Id": "hetwapenvanraveleijnlunch",
+            "Type": "Horeca",
+            "MapLocation": ".",
+            "State": "gesloten",
+            "StateColor": "clear",
+            "OpeningTimes": []
+        },
+        {
+            "Id": "kleyneklaroen",
+            "Type": "Horeca",
+            "MapLocation": "..",
+            "OpeningHours": "11:00 - 17:00",
+            "State": "open",
+            "StateColor": "green",
+            "OpeningTimes": [
+                {
+                    "Date": "2019-02-15T00:00:00",
+                    "Description": "unused",
+                    "HourFrom": "2019-02-15T11:00:00",
+                    "HourTo": "2019-02-15T17:00:00"
+                }
+            ]
+        },
+        {
+            "Id": "denguldengaarde",
+            "Type": "Horeca",
+            "MapLocation": "H18",
+            "OpeningHours": "11:00 - 18:00",
+            "State": "open",
+            "StateColor": "green",
+            "OpeningTimes": [
+                {
+                    "Date": "2019-02-15T00:00:00",
+                    "Description": "unused",
+                    "HourFrom": "2019-02-15T11:00:00",
+                    "HourTo": "2019-02-15T18:00:00"
+                }
+            ]
+        },
+        {
+            "Id": "unoxkraamtonvandevenplein",
+            "Type": "Horeca",
+            "MapLocation": ".",
+            "OpeningHours": "13:00 - 17:00",
+            "State": "open",
+            "StateColor": "green",
+            "OpeningTimes": [
+                {
+                    "Date": "2019-02-15T00:00:00",
+                    "Description": "unused",
+                    "HourFrom": "2019-02-15T13:00:00",
+                    "HourTo": "2019-02-15T17:00:00"
+                }
+            ]
+        },
+        {
+            "Id": "ijsdonutchalet",
+            "Type": "Horeca",
+            "MapLocation": ".",
+            "State": "gesloten",
+            "StateColor": "clear",
+            "OpeningTimes": []
+        },
+        {
+            "Id": "eigenheymertonvandevenplein",
+            "Type": "Horeca",
+            "MapLocation": ".",
+            "OpeningHours": "13:00 - 16:00",
+            "State": "open",
+            "StateColor": "green",
+            "OpeningTimes": [
+                {
+                    "Date": "2019-02-15T00:00:00",
+                    "Description": "unused",
+                    "HourFrom": "2019-02-15T13:00:00",
+                    "HourTo": "2019-02-15T16:00:00"
+                }
+            ]
+        },
+        {
+            "Id": "hoorndesovervloeds",
+            "Type": "Horeca",
+            "MapLocation": "..",
+            "State": "gesloten",
+            "StateColor": "clear",
+            "OpeningTimes": []
+        },
+        {
+            "Id": "smulpaap",
+            "Type": "Horeca",
+            "MapLocation": "H9",
+            "OpeningHours": "12:00 - 17:00",
+            "State": "open",
+            "StateColor": "green",
+            "OpeningTimes": [
+                {
+                    "Date": "2019-02-15T00:00:00",
+                    "Description": "unused",
+                    "HourFrom": "2019-02-15T12:00:00",
+                    "HourTo": "2019-02-15T17:00:00"
+                }
+            ]
+        },
+        {
+            "Id": "jokieswereld",
+            "Type": "Merchandise",
+            "MapLocation": "S5",
+            "OpeningHours": "12:00 - 17:00",
+            "State": "open",
+            "StateColor": "green",
+            "OpeningTimes": [
+                {
+                    "Date": "2019-02-15T00:00:00",
+                    "Description": "unused",
+                    "HourFrom": "2019-02-15T12:00:00",
+                    "HourTo": "2019-02-15T17:00:00"
+                }
+            ]
+        },
+        {
+            "Id": "kinderspoor",
+            "Type": "Attraction",
+            "MapLocation": "41",
+            "State": "open",
+            "StateColor": "green",
+            "WaitingTime": 0,
+            "StatePercentage": 0,
+            "OpeningTimes": []
+        },
+        {
+            "Id": "sprookjesboomshow",
+            "Type": "Show",
+            "MapLocation": "2",
+            "State": "open",
+            "StateColor": "green",
+            "ShowTimes": [
+                {
+                    "ShowDateTime": "2019-02-15T14:00:00"
+                },
+                {
+                    "ShowDateTime": "2019-02-15T15:00:00"
+                },
+                {
+                    "ShowDateTime": "2019-02-15T16:00:00"
+                }
+            ],
+            "PastShowTimes": [
+                {
+                    "ShowDateTime": "2019-02-15T13:00:00"
+                }
+            ],
+            "OpeningTimes": []
+        },
+        {
+            "Id": "wafelsalondensuykerbuyk",
+            "Type": "Horeca",
+            "MapLocation": ".",
+            "OpeningHours": "12:00 - 17:00",
+            "State": "open",
+            "StateColor": "green",
+            "OpeningTimes": [
+                {
+                    "Date": "2019-02-15T00:00:00",
+                    "Description": "unused",
+                    "HourFrom": "2019-02-15T12:00:00",
+                    "HourTo": "2019-02-15T17:00:00"
+                }
+            ]
+        },
+        {
+            "Id": "foodlaan",
+            "Type": "Horeca",
+            "MapLocation": ".",
+            "State": "gesloten",
+            "StateColor": "clear",
+            "OpeningTimes": []
+        },
+        {
+            "Id": "pizzachalet",
+            "Type": "Horeca",
+            "MapLocation": ".",
+            "State": "gesloten",
+            "StateColor": "clear",
+            "OpeningTimes": []
+        },
+        {
+            "Id": "unoxkraamvogelrokplein",
+            "Type": "Horeca",
+            "MapLocation": ".",
+            "OpeningHours": "12:00 - 16:30",
+            "State": "open",
+            "StateColor": "green",
+            "OpeningTimes": [
+                {
+                    "Date": "2019-02-15T00:00:00",
+                    "Description": "unused",
+                    "HourFrom": "2019-02-15T12:00:00",
+                    "HourTo": "2019-02-15T16:30:00"
+                }
+            ]
+        },
+        {
+            "Id": "hetwittepaard",
+            "Type": "Horeca",
+            "MapLocation": "H6",
+            "OpeningHours": "11:00 - 18:00",
+            "State": "open",
+            "StateColor": "green",
+            "OpeningTimes": [
+                {
+                    "Date": "2019-02-15T00:00:00",
+                    "Description": "unused",
+                    "HourFrom": "2019-02-15T11:00:00",
+                    "HourTo": "2019-02-15T18:00:00"
+                }
+            ]
+        },
+        {
+            "Id": "happinessstationwp",
+            "Type": "Horeca",
+            "MapLocation": "H6",
+            "OpeningHours": "12:00 - 16:00",
+            "State": "open",
+            "StateColor": "green",
+            "OpeningTimes": [
+                {
+                    "Date": "2019-02-15T00:00:00",
+                    "Description": "unused",
+                    "HourFrom": "2019-02-15T12:00:00",
+                    "HourTo": "2019-02-15T16:00:00"
+                }
+            ]
+        },
+        {
+            "Id": "tpoffertje",
+            "Type": "Horeca",
+            "MapLocation": "H2",
+            "OpeningHours": "12:00 - 16:00",
+            "State": "open",
+            "StateColor": "green",
+            "OpeningTimes": [
+                {
+                    "Date": "2019-02-15T00:00:00",
+                    "Description": "unused",
+                    "HourFrom": "2019-02-15T12:00:00",
+                    "HourTo": "2019-02-15T16:00:00"
+                }
+            ]
+        },
+        {
+            "Id": "gelaarsdekat",
+            "Type": "Horeca",
+            "MapLocation": "H21",
+            "OpeningHours": "11:30 - 17:00",
+            "State": "open",
+            "StateColor": "green",
+            "OpeningTimes": [
+                {
+                    "Date": "2019-02-15T00:00:00",
+                    "Description": "unused",
+                    "HourFrom": "2019-02-15T11:30:00",
+                    "HourTo": "2019-02-15T17:00:00"
+                }
+            ]
+        },
+        {
+            "Id": "grootmoederskeuken",
+            "Type": "Horeca",
+            "MapLocation": "H11",
+            "State": "gesloten",
+            "StateColor": "clear",
+            "OpeningTimes": []
+        },
+        {
+            "Id": "gamegallery",
+            "Type": "Merchandise",
+            "MapLocation": "S6",
+            "OpeningHours": "12:00 - 17:00",
+            "State": "open",
+            "StateColor": "green",
+            "OpeningTimes": [
+                {
+                    "Date": "2019-02-15T00:00:00",
+                    "Description": "unused",
+                    "HourFrom": "2019-02-15T12:00:00",
+                    "HourTo": "2019-02-15T17:00:00"
+                }
+            ]
+        },
+        {
+            "Id": "halvemaen",
+            "Type": "Attraction",
+            "MapLocation": "42",
+            "State": "open",
+            "StateColor": "green",
+            "WaitingTime": 0,
+            "StatePercentage": 0,
+            "OpeningTimes": []
+        },
+        {
+            "Id": "sprookjessprokkelaar",
+            "Type": "Show",
+            "MapLocation": "3",
+            "State": "gesloten",
+            "StateColor": "clear",
+            "PastShowTimes": [],
+            "OpeningTimes": []
+        },
+        {
+            "Id": "carnavalfestivalplein",
+            "Type": "Parkeventlocation",
+            "MapLocation": "..",
+            "State": "gesloten",
+            "StateColor": "clear",
+            "PastShowTimes": [],
+            "OpeningTimes": []
+        },
+        {
+            "Id": "hetsuykerhuys",
+            "Type": "Horeca",
+            "MapLocation": "0",
+            "State": "gesloten",
+            "StateColor": "clear",
+            "OpeningTimes": []
+        },
+        {
+            "Id": "panoramalacarte",
+            "Type": "Horeca",
+            "MapLocation": "H3",
+            "OpeningHours": "11:00 - 18:00",
+            "State": "open",
+            "StateColor": "green",
+            "OpeningTimes": [
+                {
+                    "Date": "2019-02-15T00:00:00",
+                    "Description": "unused",
+                    "HourFrom": "2019-02-15T11:00:00",
+                    "HourTo": "2019-02-15T18:00:00"
+                }
+            ]
+        },
+        {
+            "Id": "panoramaselfservice",
+            "Type": "Horeca",
+            "MapLocation": "H3",
+            "OpeningHours": "11:00 - 15:00",
+            "State": "open",
+            "StateColor": "green",
+            "OpeningTimes": [
+                {
+                    "Date": "2019-02-15T00:00:00",
+                    "Description": "unused",
+                    "HourFrom": "2019-02-15T11:00:00",
+                    "HourTo": "2019-02-15T15:00:00"
+                }
+            ]
+        },
+        {
+            "Id": "panoramakiosk",
+            "Type": "Horeca",
+            "MapLocation": ".",
+            "State": "gesloten",
+            "StateColor": "clear",
+            "OpeningTimes": []
+        },
+        {
+            "Id": "korfje",
+            "Type": "Horeca",
+            "MapLocation": "..",
+            "OpeningHours": "10:30 - 18:00",
+            "State": "open",
+            "StateColor": "green",
+            "OpeningTimes": [
+                {
+                    "Date": "2019-02-15T00:00:00",
+                    "Description": "unused",
+                    "HourFrom": "2019-02-15T10:30:00",
+                    "HourTo": "2019-02-15T18:00:00"
+                }
+            ]
+        },
+        {
+            "Id": "pandashop",
+            "Type": "Merchandise",
+            "MapLocation": "..",
+            "State": "gesloten",
+            "StateColor": "clear",
+            "OpeningTimes": []
+        },
+        {
+            "Id": "doudetuffer",
+            "Type": "Attraction",
+            "MapLocation": "43",
+            "State": "open",
+            "StateColor": "green",
+            "WaitingTime": 15,
+            "StatePercentage": 10,
+            "OpeningTimes": []
+        },
+        {
+            "Id": "diorama",
+            "Type": "Attraction",
+            "MapLocation": "4",
+            "State": "open",
+            "StateColor": "green",
+            "WaitingTime": 0,
+            "StatePercentage": 0,
+            "OpeningTimes": []
+        },
+        {
+            "Id": "bontestoet",
+            "Type": "Parkeventlocation",
+            "MapLocation": "..",
+            "State": "gesloten",
+            "StateColor": "clear",
+            "PastShowTimes": [],
+            "OpeningTimes": []
+        },
+        {
+            "Id": "polleskeuken",
+            "Type": "Horeca",
+            "MapLocation": "H4",
+            "OpeningHours": "10:30 - 18:15",
+            "State": "open",
+            "StateColor": "green",
+            "OpeningTimes": [
+                {
+                    "Date": "2019-02-15T00:00:00",
+                    "Description": "unused",
+                    "HourFrom": "2019-02-15T10:30:00",
+                    "HourTo": "2019-02-15T18:15:00"
+                }
+            ]
+        },
+        {
+            "Id": "rondjevandemolen",
+            "Type": "Horeca",
+            "MapLocation": "H4",
+            "OpeningHours": "13:30 - 18:00",
+            "State": "open",
+            "StateColor": "green",
+            "OpeningTimes": [
+                {
+                    "Date": "2019-02-15T00:00:00",
+                    "Description": "unused",
+                    "HourFrom": "2019-02-15T13:30:00",
+                    "HourTo": "2019-02-15T18:00:00"
+                }
+            ]
+        },
+        {
+            "Id": "degebrandeboon",
+            "Type": "Horeca",
+            "MapLocation": "H4",
+            "State": "gesloten",
+            "StateColor": "clear",
+            "OpeningTimes": []
+        },
+        {
+            "Id": "happinessstationpk",
+            "Type": "Horeca",
+            "MapLocation": "H4",
+            "State": "gesloten",
+            "StateColor": "clear",
+            "OpeningTimes": []
+        },
+        {
+            "Id": "tokopagode",
+            "Type": "Horeca",
+            "MapLocation": "..",
+            "OpeningHours": "12:00 - 16:00",
+            "State": "open",
+            "StateColor": "green",
+            "OpeningTimes": [
+                {
+                    "Date": "2019-02-15T00:00:00",
+                    "Description": "unused",
+                    "HourFrom": "2019-02-15T12:00:00",
+                    "HourTo": "2019-02-15T16:00:00"
+                }
+            ]
+        },
+        {
+            "Id": "stoomcarrousel",
+            "Type": "Attraction",
+            "MapLocation": "5",
+            "State": "open",
+            "StateColor": "green",
+            "WaitingTime": 0,
+            "StatePercentage": 0,
+            "OpeningTimes": []
+        },
+        {
+            "Id": "polkamarina",
+            "Type": "Attraction",
+            "MapLocation": "44",
+            "State": "open",
+            "StateColor": "green",
+            "WaitingTime": 0,
+            "StatePercentage": 0,
+            "OpeningTimes": []
+        },
+        {
+            "Id": "debazaar",
+            "Type": "Merchandise",
+            "MapLocation": "S9",
+            "OpeningHours": "10:30 - 18:00",
+            "State": "open",
+            "StateColor": "green",
+            "OpeningTimes": [
+                {
+                    "Date": "2019-02-15T00:00:00",
+                    "Description": "unused",
+                    "HourFrom": "2019-02-15T10:30:00",
+                    "HourTo": "2019-02-15T18:00:00"
+                }
+            ]
+        },
+        {
+            "Id": "stationdeoost",
+            "Type": "Horeca",
+            "MapLocation": "H18",
+            "OpeningHours": "11:00 - 18:00",
+            "State": "open",
+            "StateColor": "green",
+            "OpeningTimes": [
+                {
+                    "Date": "2019-02-15T00:00:00",
+                    "Description": "unused",
+                    "HourFrom": "2019-02-15T11:00:00",
+                    "HourTo": "2019-02-15T18:00:00"
+                }
+            ]
+        },
+        {
+            "Id": "eigenheymerbijstationdeoost",
+            "Type": "Horeca",
+            "MapLocation": ".",
+            "OpeningHours": "12:00 - 18:00",
+            "State": "open",
+            "StateColor": "green",
+            "OpeningTimes": [
+                {
+                    "Date": "2019-02-15T00:00:00",
+                    "Description": "unused",
+                    "HourFrom": "2019-02-15T12:00:00",
+                    "HourTo": "2019-02-15T18:00:00"
+                }
+            ]
+        },
+        {
+            "Id": "herautenplein",
+            "Type": "Parkeventlocation",
+            "MapLocation": "..",
+            "State": "gesloten",
+            "StateColor": "clear",
+            "PastShowTimes": [],
+            "OpeningTimes": []
+        },
+        {
+            "Id": "delikkebaerd",
+            "Type": "Horeca",
+            "MapLocation": ".",
+            "State": "gesloten",
+            "StateColor": "clear",
+            "OpeningTimes": []
+        },
+        {
+            "Id": "efteldingen",
+            "Type": "Merchandise",
+            "MapLocation": "S11",
+            "OpeningHours": "10:00 - 19:00",
+            "State": "open",
+            "StateColor": "green",
+            "OpeningTimes": [
+                {
+                    "Date": "2019-02-15T00:00:00",
+                    "Description": "unused",
+                    "HourFrom": "2019-02-15T10:00:00",
+                    "HourTo": "2019-02-15T19:00:00"
+                }
+            ]
+        },
+        {
+            "Id": "stoomtreinr",
+            "Type": "Attraction",
+            "MapLocation": "45",
+            "OpeningHours": "11:15 - 17:45",
+            "State": "open",
+            "StateColor": "green",
+            "OpeningTimes": [
+                {
+                    "Date": "2019-02-15T00:00:00",
+                    "Description": "unused",
+                    "HourFrom": "2019-02-15T11:15:00",
+                    "HourTo": "2019-02-15T17:45:00"
+                }
+            ]
+        },
+        {
+            "Id": "stoomtreinm",
+            "Type": "Attraction",
+            "MapLocation": "6",
+            "OpeningHours": "11:00 - 18:00",
+            "State": "open",
+            "StateColor": "green",
+            "OpeningTimes": [
+                {
+                    "Date": "2019-02-15T00:00:00",
+                    "Description": "unused",
+                    "HourFrom": "2019-02-15T11:00:00",
+                    "HourTo": "2019-02-15T18:00:00"
+                }
+            ]
+        },
+        {
+            "Id": "dekombuys",
+            "Type": "Horeca",
+            "MapLocation": "H19",
+            "OpeningHours": "11:00 - 17:00",
+            "State": "open",
+            "StateColor": "green",
+            "OpeningTimes": [
+                {
+                    "Date": "2019-02-15T00:00:00",
+                    "Description": "unused",
+                    "HourFrom": "2019-02-15T11:00:00",
+                    "HourTo": "2019-02-15T17:00:00"
+                }
+            ]
+        },
+        {
+            "Id": "unoxkraamvliegendehollanderplein",
+            "Type": "Horeca",
+            "MapLocation": ".",
+            "State": "gesloten",
+            "StateColor": "clear",
+            "OpeningTimes": []
+        },
+        {
+            "Id": "demeermin",
+            "Type": "Horeca",
+            "MapLocation": "..",
+            "State": "gesloten",
+            "StateColor": "clear",
+            "OpeningTimes": []
+        },
+        {
+            "Id": "flierefluiter",
+            "Type": "Horeca",
+            "MapLocation": "0",
+            "State": "gesloten",
+            "StateColor": "clear",
+            "OpeningTimes": []
+        },
+        {
+            "Id": "melkhuysje",
+            "Type": "Horeca",
+            "MapLocation": "H20",
+            "State": "gesloten",
+            "StateColor": "clear",
+            "OpeningTimes": []
+        },
+        {
+            "Id": "yoghurtbarbijbaron1898",
+            "Type": "Horeca",
+            "MapLocation": ".",
+            "OpeningHours": "10:00 - 18:00",
+            "State": "open",
+            "StateColor": "green",
+            "OpeningTimes": [
+                {
+                    "Date": "2019-02-15T00:00:00",
+                    "Description": "unused",
+                    "HourFrom": "2019-02-15T10:00:00",
+                    "HourTo": "2019-02-15T18:00:00"
+                }
+            ]
+        },
+        {
+            "Id": "hetseylendfregat",
+            "Type": "Horeca",
+            "MapLocation": "..",
+            "OpeningHours": "11:00 - 18:00",
+            "State": "open",
+            "StateColor": "green",
+            "OpeningTimes": [
+                {
+                    "Date": "2019-02-15T00:00:00",
+                    "Description": "unused",
+                    "HourFrom": "2019-02-15T11:00:00",
+                    "HourTo": "2019-02-15T18:00:00"
+                }
+            ]
+        },
+        {
+            "Id": "unoxkraampiraaplein",
+            "Type": "Horeca",
+            "MapLocation": ".",
+            "State": "gesloten",
+            "StateColor": "clear",
+            "OpeningTimes": []
+        },
+        {
+            "Id": "steenbokplein",
+            "Type": "Parkeventlocation",
+            "MapLocation": "..",
+            "State": "gesloten",
+            "StateColor": "clear",
+            "PastShowTimes": [],
+            "OpeningTimes": []
+        },
+        {
+            "Id": "tonvandevenplein",
+            "Type": "Parkeventlocation",
+            "MapLocation": "..",
+            "State": "gesloten",
+            "StateColor": "clear",
+            "PastShowTimes": [],
+            "OpeningTimes": []
+        },
+        {
+            "Id": "wittewalvis",
+            "Type": "Horeca",
+            "MapLocation": ".",
+            "State": "gesloten",
+            "StateColor": "clear",
+            "OpeningTimes": []
+        },
+        {
+            "Id": "indenoudenmarskramer",
+            "Type": "Merchandise",
+            "MapLocation": "S1",
+            "OpeningHours": "12:00 - 18:00",
+            "State": "open",
+            "StateColor": "green",
+            "OpeningTimes": [
+                {
+                    "Date": "2019-02-15T00:00:00",
+                    "Description": "unused",
+                    "HourFrom": "2019-02-15T12:00:00",
+                    "HourTo": "2019-02-15T18:00:00"
+                }
+            ]
+        },
+        {
+            "Id": "python",
+            "Type": "Attraction",
+            "MapLocation": "46",
+            "State": "open",
+            "StateColor": "green",
+            "WaitingTime": 15,
+            "StatePercentage": 10,
+            "Timeslot": {
+                "State": "disabled"
+            },
+            "OpeningTimes": []
+        },
+        {
+            "Id": "casacaracol",
+            "Type": "Horeca",
+            "MapLocation": ".",
+            "State": "gesloten",
+            "StateColor": "clear",
+            "OpeningTimes": []
+        },
+        {
+            "Id": "pythonsinglerider",
+            "Type": "Attraction",
+            "MapLocation": "46",
+            "State": "gesloten",
+            "StateColor": "clear",
+            "OpeningTimes": []
+        },
+        {
+            "Id": "piranabar",
+            "Type": "Horeca",
+            "MapLocation": ".",
+            "State": "gesloten",
+            "StateColor": "clear",
+            "OpeningTimes": []
+        },
+        {
+            "Id": "vreugdevuurruigrijk",
+            "Type": "Horeca",
+            "MapLocation": ".",
+            "State": "gesloten",
+            "StateColor": "clear",
+            "OpeningTimes": []
+        },
+        {
+            "Id": "vreugdevuurmarerijk",
+            "Type": "Horeca",
+            "MapLocation": ".",
+            "State": "gesloten",
+            "StateColor": "clear",
+            "OpeningTimes": []
+        },
+        {
+            "Id": "vreugdevuurreizenrijk",
+            "Type": "Horeca",
+            "MapLocation": ".",
+            "State": "gesloten",
+            "StateColor": "clear",
+            "OpeningTimes": []
+        },
+        {
+            "Id": "ijspaleishoreca",
+            "Type": "Horeca",
+            "MapLocation": "13",
+            "State": "gesloten",
+            "StateColor": "clear",
+            "OpeningTimes": []
+        },
+        {
+            "Id": "droomvlucht",
+            "Type": "Attraction",
+            "MapLocation": "7",
+            "State": "open",
+            "StateColor": "green",
+            "WaitingTime": 0,
+            "StatePercentage": 0,
+            "OpeningTimes": []
+        },
+        {
+            "Id": "virtueledroomvlucht",
+            "Type": "Attraction",
+            "MapLocation": "7",
+            "State": "open",
+            "StateColor": "green",
+            "WaitingTime": 0,
+            "StatePercentage": 0,
+            "OpeningTimes": []
+        },
+        {
+            "Id": "desteenbok",
+            "Type": "Horeca",
+            "MapLocation": "H65",
+            "OpeningHours": "11:30 - 18:30",
+            "State": "open",
+            "StateColor": "green",
+            "OpeningTimes": [
+                {
+                    "Date": "2019-02-15T00:00:00",
+                    "Description": "unused",
+                    "HourFrom": "2019-02-15T11:30:00",
+                    "HourTo": "2019-02-15T18:30:00"
+                }
+            ]
+        },
+        {
+            "Id": "burgerbackerij",
+            "Type": "Horeca",
+            "MapLocation": "H67",
+            "State": "gesloten",
+            "StateColor": "clear",
+            "OpeningTimes": []
+        },
+        {
+            "Id": "stroopwafelchalet",
+            "Type": "Horeca",
+            "MapLocation": ".",
+            "OpeningHours": "11:00 - 18:30",
+            "State": "open",
+            "StateColor": "green",
+            "OpeningTimes": [
+                {
+                    "Date": "2019-02-15T00:00:00",
+                    "Description": "unused",
+                    "HourFrom": "2019-02-15T11:00:00",
+                    "HourTo": "2019-02-15T18:30:00"
+                }
+            ]
+        },
+        {
+            "Id": "eigenheymersteenbokplein",
+            "Type": "Horeca",
+            "MapLocation": "H68",
+            "OpeningHours": "12:00 - 18:30",
+            "State": "open",
+            "StateColor": "green",
+            "OpeningTimes": [
+                {
+                    "Date": "2019-02-15T00:00:00",
+                    "Description": "unused",
+                    "HourFrom": "2019-02-15T12:00:00",
+                    "HourTo": "2019-02-15T18:30:00"
+                }
+            ]
+        },
+        {
+            "Id": "braadworstchalet",
+            "Type": "Horeca",
+            "MapLocation": ".",
+            "State": "gesloten",
+            "StateColor": "clear",
+            "OpeningTimes": []
+        },
+        {
+            "Id": "vliegendehollanderplein",
+            "Type": "Parkeventlocation",
+            "MapLocation": "..",
+            "State": "gesloten",
+            "StateColor": "clear",
+            "PastShowTimes": [],
+            "OpeningTimes": []
+        },
+        {
+            "Id": "oase",
+            "Type": "Horeca",
+            "MapLocation": "H66",
+            "OpeningHours": "11:00 - 18:30",
+            "State": "open",
+            "StateColor": "green",
+            "OpeningTimes": [
+                {
+                    "Date": "2019-02-15T00:00:00",
+                    "Description": "unused",
+                    "HourFrom": "2019-02-15T11:00:00",
+                    "HourTo": "2019-02-15T18:30:00"
+                }
+            ]
+        },
+        {
+            "Id": "dromerijen",
+            "Type": "Merchandise",
+            "MapLocation": "..",
+            "OpeningHours": "10:30 - 18:00",
+            "State": "open",
+            "StateColor": "green",
+            "OpeningTimes": [
+                {
+                    "Date": "2019-02-15T00:00:00",
+                    "Description": "unused",
+                    "HourFrom": "2019-02-15T10:30:00",
+                    "HourTo": "2019-02-15T18:00:00"
+                }
+            ]
+        },
+        {
+            "Id": "raveleijn",
+            "Type": "Show",
+            "MapLocation": "8",
+            "State": "inonderhoud",
+            "StateColor": "clear",
+            "PastShowTimes": [],
+            "OpeningTimes": []
+        },
+        {
+            "Id": "devliegendehollander",
+            "Type": "Attraction",
+            "MapLocation": "47",
+            "State": "inonderhoud",
+            "StateColor": "clear",
+            "OpeningTimes": []
+        },
+        {
+            "Id": "octopus",
+            "Type": "Horeca",
+            "MapLocation": "H62",
+            "OpeningHours": "10:00 - 18:30",
+            "State": "open",
+            "StateColor": "green",
+            "OpeningTimes": [
+                {
+                    "Date": "2019-02-15T00:00:00",
+                    "Description": "unused",
+                    "HourFrom": "2019-02-15T10:00:00",
+                    "HourTo": "2019-02-15T18:30:00"
+                }
+            ]
+        },
+        {
+            "Id": "hollandsegebakskraam",
+            "Type": "Horeca",
+            "MapLocation": "..",
+            "OpeningHours": "15:00 - 18:30",
+            "State": "open",
+            "StateColor": "green",
+            "OpeningTimes": [
+                {
+                    "Date": "2019-02-15T00:00:00",
+                    "Description": "unused",
+                    "HourFrom": "2019-02-15T15:00:00",
+                    "HourTo": "2019-02-15T18:30:00"
+                }
+            ]
+        },
+        {
+            "Id": "devrolijkenoot",
+            "Type": "Horeca",
+            "MapLocation": "..",
+            "OpeningHours": "10:00 - 19:00",
+            "State": "open",
+            "StateColor": "green",
+            "OpeningTimes": [
+                {
+                    "Date": "2019-02-15T00:00:00",
+                    "Description": "unused",
+                    "HourFrom": "2019-02-15T10:00:00",
+                    "HourTo": "2019-02-15T19:00:00"
+                }
+            ]
+        },
+        {
+            "Id": "loetiek",
+            "Type": "Merchandise",
+            "MapLocation": "S3",
+            "State": "gesloten",
+            "StateColor": "clear",
+            "OpeningTimes": []
+        },
+        {
+            "Id": "jorisendedraak",
+            "Type": "Attraction",
+            "MapLocation": "48",
+            "State": "open",
+            "StateColor": "green",
+            "WaitingTime": 15,
+            "StatePercentage": 10,
+            "OpeningTimes": []
+        },
+        {
+            "Id": "jorisendedraaksinglerider",
+            "Type": "Attraction",
+            "MapLocation": "48",
+            "State": "gesloten",
+            "StateColor": "clear",
+            "OpeningTimes": []
+        },
+        {
+            "Id": "villavolta",
+            "Type": "Attraction",
+            "MapLocation": "9",
+            "State": "inonderhoud",
+            "StateColor": "clear",
+            "OpeningTimes": []
+        },
+        {
+            "Id": "baron1898",
+            "Type": "Attraction",
+            "MapLocation": "49",
+            "State": "open",
+            "StateColor": "green",
+            "WaitingTime": 5,
+            "StatePercentage": 3,
+            "OpeningTimes": []
+        },
+        {
+            "Id": "baron1898singlerider",
+            "Type": "Attraction",
+            "MapLocation": "49",
+            "State": "open",
+            "StateColor": "green",
+            "WaitingTime": 0,
+            "StatePercentage": 0,
+            "OpeningTimes": []
+        },
+        {
+            "Id": "kindervreugd",
+            "Type": "Attraction",
+            "MapLocation": "10",
+            "State": "open",
+            "StateColor": "green",
+            "WaitingTime": 0,
+            "StatePercentage": 0,
+            "OpeningTimes": []
+        },
+        {
+            "Id": "carnavalfestival",
+            "Type": "Attraction",
+            "MapLocation": "22",
+            "State": "open",
+            "StateColor": "green",
+            "WaitingTime": 0,
+            "StatePercentage": 0,
+            "OpeningTimes": []
+        },
+        {
+            "Id": "volkvanlaafmonorail",
+            "Type": "Attraction",
+            "MapLocation": "11",
+            "State": "open",
+            "StateColor": "green",
+            "WaitingTime": 5,
+            "StatePercentage": 3,
+            "OpeningTimes": []
+        },
+        {
+            "Id": "jokieenjet",
+            "Type": "Show",
+            "MapLocation": "23",
+            "State": "gesloten",
+            "StateColor": "clear",
+            "PastShowTimes": [],
+            "OpeningTimes": []
+        },
+        {
+            "Id": "volkvanlaaf",
+            "Type": "Attraction",
+            "MapLocation": "11",
+            "State": "open",
+            "StateColor": "green",
+            "WaitingTime": 0,
+            "StatePercentage": 0,
+            "OpeningTimes": []
+        },
+        {
+            "Id": "fotopuntbobbaan",
+            "Type": "Merchandise",
+            "MapLocation": "30",
+            "OpeningHours": "11:00 - 16:00",
+            "State": "open",
+            "StateColor": "green",
+            "OpeningTimes": [
+                {
+                    "Date": "2019-02-15T00:00:00",
+                    "Description": "unused",
+                    "HourFrom": "2019-02-15T11:00:00",
+                    "HourTo": "2019-02-15T16:00:00"
+                }
+            ]
+        },
+        {
+            "Id": "carrouselsantonpieckplein",
+            "Type": "Attraction",
+            "MapLocation": "12",
+            "State": "open",
+            "StateColor": "green",
+            "WaitingTime": 0,
+            "StatePercentage": 0,
+            "OpeningTimes": []
+        },
+        {
+            "Id": "monsieurcannibale",
+            "Type": "Attraction",
+            "MapLocation": "24",
+            "State": "open",
+            "StateColor": "green",
+            "WaitingTime": 5,
+            "StatePercentage": 3,
+            "OpeningTimes": []
+        },
+        {
+            "Id": "vogelrok",
+            "Type": "Attraction",
+            "MapLocation": "25",
+            "State": "open",
+            "StateColor": "green",
+            "WaitingTime": 5,
+            "StatePercentage": 3,
+            "OpeningTimes": []
+        },
+        {
+            "Id": "eftelingmuseum",
+            "Type": "Attraction",
+            "MapLocation": "13",
+            "State": "open",
+            "StateColor": "green",
+            "WaitingTime": 0,
+            "StatePercentage": 0,
+            "OpeningTimes": []
+        },
+        {
+            "Id": "fotopuntpiraa",
+            "Type": "Merchandise",
+            "MapLocation": "33",
+            "State": "gesloten",
+            "StateColor": "clear",
+            "OpeningTimes": []
+        },
+        {
+            "Id": "fotopuntdevliegendehollander",
+            "Type": "Merchandise",
+            "MapLocation": "28",
+            "State": "gesloten",
+            "StateColor": "clear",
+            "OpeningTimes": []
+        },
+        {
+            "Id": "avonturendoolhof",
+            "Type": "Attraction",
+            "MapLocation": "26",
+            "State": "open",
+            "StateColor": "green",
+            "WaitingTime": 0,
+            "StatePercentage": 0,
+            "OpeningTimes": []
+        },
+        {
+            "Id": "kleuterhof",
+            "Type": "Attraction",
+            "MapLocation": "27",
+            "State": "open",
+            "StateColor": "green",
+            "WaitingTime": 0,
+            "StatePercentage": 0,
+            "OpeningTimes": []
+        },
+        {
+            "Id": "fotopuntjorisendedraak",
+            "Type": "Merchandise",
+            "MapLocation": "29",
+            "OpeningHours": "13:00 - 16:00",
+            "State": "open",
+            "StateColor": "green",
+            "OpeningTimes": [
+                {
+                    "Date": "2019-02-15T00:00:00",
+                    "Description": "unused",
+                    "HourFrom": "2019-02-15T13:00:00",
+                    "HourTo": "2019-02-15T16:00:00"
+                }
+            ]
+        },
+        {
+            "Id": "fotopuntpython",
+            "Type": "Merchandise",
+            "MapLocation": "27",
+            "State": "gesloten",
+            "StateColor": "clear",
+            "OpeningTimes": []
+        },
+        {
+            "Id": "gondoletta",
+            "Type": "Attraction",
+            "MapLocation": "28",
+            "State": "open",
+            "StateColor": "green",
+            "WaitingTime": 5,
+            "StatePercentage": 3,
+            "OpeningTimes": []
+        },
+        {
+            "Id": "pagode",
+            "Type": "Attraction",
+            "MapLocation": "29",
+            "State": "open",
+            "StateColor": "green",
+            "WaitingTime": 5,
+            "StatePercentage": 3,
+            "OpeningTimes": []
+        },
+        {
+            "Id": "pandadroom",
+            "Type": "Attraction",
+            "MapLocation": "62",
+            "State": "open",
+            "StateColor": "green",
+            "WaitingTime": 10,
+            "StatePercentage": 7,
+            "OpeningTimes": []
+        },
+        {
+            "Id": "fotopuntbaron1898",
+            "Type": "Merchandise",
+            "MapLocation": "31",
+            "State": "gesloten",
+            "StateColor": "clear",
+            "OpeningTimes": []
+        },
+        {
+            "Id": "spookslot",
+            "Type": "Attraction",
+            "MapLocation": "63",
+            "State": "open",
+            "StateColor": "green",
+            "WaitingTime": 10,
+            "StatePercentage": 7,
+            "OpeningTimes": []
+        },
+        {
+            "Id": "pirana",
+            "Type": "Attraction",
+            "MapLocation": "64",
+            "State": "inonderhoud",
+            "StateColor": "clear",
+            "OpeningTimes": []
+        },
+        {
+            "Id": "bobbaan",
+            "Type": "Attraction",
+            "MapLocation": "65",
+            "State": "open",
+            "StateColor": "green",
+            "WaitingTime": 10,
+            "StatePercentage": 7,
+            "OpeningTimes": []
+        },
+        {
+            "Id": "bobsingleriders",
+            "Type": "Attraction",
+            "MapLocation": "65",
+            "State": "gesloten",
+            "StateColor": "clear",
+            "OpeningTimes": []
+        },
+        {
+            "Id": "fatamorgana",
+            "Type": "Attraction",
+            "MapLocation": "66",
+            "State": "open",
+            "StateColor": "green",
+            "WaitingTime": 0,
+            "StatePercentage": 0,
+            "OpeningTimes": []
+        },
+        {
+            "Id": "sprookjesboomerwaseens",
+            "Type": "Show",
+            "MapLocation": "2",
+            "State": "gesloten",
+            "StateColor": "clear",
+            "PastShowTimes": [],
+            "OpeningTimes": []
+        },
+        {
+            "Id": "symbolica",
+            "Type": "Attraction",
+            "MapLocation": "82",
+            "State": "open",
+            "StateColor": "green",
+            "WaitingTime": 10,
+            "StatePercentage": 7,
+            "OpeningTimes": []
+        },
+        {
+            "Id": "symbolicasingleriders",
+            "Type": "Attraction",
+            "MapLocation": "82",
+            "State": "open",
+            "StateColor": "green",
+            "WaitingTime": 5,
+            "StatePercentage": 3,
+            "OpeningTimes": []
+        },
+        {
+            "Id": "aquanura",
+            "Type": "Show",
+            "MapLocation": "84",
+            "State": "open",
+            "StateColor": "green",
+            "ShowTimes": [
+                {
+                    "ShowDateTime": "2019-02-15T18:15:00",
+                    "Edition": "1e Efteling Symfonie"
+                }
+            ],
+            "PastShowTimes": [],
+            "OpeningTimes": []
+        },
+        {
+            "Id": "carrouselpaleiss",
+            "Type": "Horeca",
+            "MapLocation": "4",
+            "State": "gesloten",
+            "StateColor": "clear",
+            "OpeningTimes": []
+        },
+        {
+            "Id": "theaterrestaurantapplaus",
+            "Type": "Horeca",
+            "MapLocation": "H5",
+            "State": "gesloten",
+            "StateColor": "clear",
+            "OpeningTimes": []
+        },
+        {
+            "Id": "carrouselbar",
+            "Type": "Horeca",
+            "MapLocation": ".",
+            "State": "gesloten",
+            "StateColor": "clear",
+            "OpeningTimes": []
+        },
+        {
+            "Id": "desoeteinval",
+            "Type": "Horeca",
+            "MapLocation": "..",
+            "OpeningHours": "12:00 - 17:00",
+            "State": "open",
+            "StateColor": "green",
+            "OpeningTimes": [
+                {
+                    "Date": "2019-02-15T00:00:00",
+                    "Description": "unused",
+                    "HourFrom": "2019-02-15T12:00:00",
+                    "HourTo": "2019-02-15T17:00:00"
+                }
+            ]
+        }
+    ]
+}

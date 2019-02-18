@@ -22,13 +22,28 @@ const ItemDetails = ({attractionData, match}) => {
         return item.id === "symbolicasingleriders"
       })
     }
+      if (match.params.Id === "baron1898"){
+        singleRiderArray = attractionData.filter(item =>{
+        return item.id === "baron1898singlerider"
+      })
+    }
+    if (match.params.Id === "jorisendedraak"){
+      singleRiderArray = attractionData.filter(item =>{
+      return item.id === "jorisendedraaksinglerider"
+    })
+  }
+  if (match.params.Id === "python"){
+    singleRiderArray = attractionData.filter(item =>{
+    return item.id === "pythonsinglerider"
+  })
+}
 
       let singleRider;
       if (singleRiderArray !== undefined) {
         singleRider = singleRiderArray[0]
       }
       const singleItem = singleItemArray[0];
-      console.log(singleItem, singleRider);
+      console.log(singleRider);
 
       return (
             <div className="container section project-details">
@@ -58,7 +73,7 @@ const ItemDetails = ({attractionData, match}) => {
                       <span className="grey-text">{singleItem.subtitle}</span>
                       <div style={{ "padding-top": "10px" }}>
                       <WaitingTime WaitingTime={singleItem.WaitingTime}  state={singleItem.State}/>
-                      {singleRider ? <div><p>Single Rider Wachtijd</p><WaitingTime WaitingTime={singleRider.WaitingTime} /></div>: null }
+                      {singleRider ? <div><p>Single Rider Wachtijd</p><WaitingTime WaitingTime={singleRider.WaitingTime} state={singleRider.State} /></div>: null }
                       </div>
                     </div>
                   </div>

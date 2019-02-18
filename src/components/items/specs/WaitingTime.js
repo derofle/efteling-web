@@ -14,10 +14,20 @@ const WaitingTime = ({WaitingTime, state}) => {
     if (state === "inonderhoud") {
         color = "grey darken-1"
     }
+    if (state === "" || state === "gesloten") {
+        color = "grey"
+    }
+
+    if (state === "storing") {
+        color = "grey darken-1"
+    }
+
     return (
          <p className= {color + " white-text center-align btn"} style={{ cursor: "default", "box-shadow": "none" }}>
              { WaitingTime || WaitingTime === 0 ? "±" + WaitingTime + " min wachten" : null }
              { state === "inonderhoud" ? "In onderhoud" : null }
+             { state === "" || state === "gesloten" ? "Gesloten" : null }
+             { state === "storing" ? "Storing" : null}
         </p>
     )
 }

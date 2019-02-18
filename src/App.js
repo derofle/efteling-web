@@ -2,14 +2,18 @@ import React, { Component } from 'react';
 import { BrowserRouter, Switch, Route } from 'react-router-dom'
 import NavBar from './components/layout/NavBar'
 import Dashboard from './components/dashboard/Dashboard'
-import AttractionDashboard from './components/dashboard/AttractionDashboard'
-import ShowDashboard from './components/dashboard/ShowDashboard'
 import AttractionDetails from './components/items/ItemDetails'
 
 // JSON
 import PoiRaw from './data/newpoi'
 
+
+ 
+
+
+
 class App extends Component {
+  
   state = {
     attractionData: [],
     metaData: [],
@@ -70,17 +74,6 @@ class App extends Component {
                   <Dashboard {...props} attractionData={this.state.attractionData} loading={this.state.loading}/>
                 )}
                 />
-              <Route 
-                exact path='/attraction'
-                render={(props) => (
-                  <AttractionDashboard {...props} stats={this.state.AttractionStats} info={this.state.AttractionInfo} loading={this.state.loading}/>
-                )}
-                />
-                <Route 
-                exact path='/show'
-                render={(props) => (
-                  <ShowDashboard {...props} stats={this.state.AttractionStats} info={this.state.AttractionInfo} loading={this.state.loading}/>
-                )}
                 />
               <Route
                 path='/attraction/:Id'
@@ -101,5 +94,6 @@ class App extends Component {
     }
   }
 }
+
 
 export default App;
