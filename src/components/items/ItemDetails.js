@@ -1,4 +1,4 @@
-import React from 'react'
+import React, { Fragment } from 'react'
 import WaitingTime from './specs/WaitingTime';
 import Empire from './specs/Empire';
 
@@ -52,6 +52,7 @@ const ItemDetails = ({attractionData, match}) => {
                   <div className="card">
                     <div className="card-image">
                       <img src={"https://www.efteling.com/nl" + singleItem.image_detailview1} alt=""/>
+                      <span class="card-title">{singleItem.text}</span>
                     </div>
                     <div className="card-action grey lighten-4 grey-text" style={{ padding: "0px 24px"}}>
                       <div className="row">
@@ -61,8 +62,8 @@ const ItemDetails = ({attractionData, match}) => {
                           </div>
                       </div>
                     </div>
-                    <div className="card-content">
-                      <div></div>
+                    <div className="card-content" style={{ "padding-top" : "0px" }}>
+                      {singleItem.detail_text}
                     </div>
                   </div>
                 </div>
@@ -79,7 +80,74 @@ const ItemDetails = ({attractionData, match}) => {
                   </div>
                   <div className="card">   
                     <div className="card-content">
-                      <p>{singleItem.detail_text}</p>
+                    <div className="row">
+                      {singleItem.type ? 
+                        <Fragment>
+                        <div className="col s6">Soort attractie:</div>
+                        <div className="col s6">{singleItem.type}</div>
+                        </Fragment>
+                      : null}
+                      {singleItem.builder ? 
+                        <Fragment>
+                        <div className="col s6">Bouwer(s):</div>
+                        <div className="col s6">{singleItem.builder}</div>
+                        </Fragment>
+                      : null}
+                      {singleItem.designer ? 
+                        <Fragment>
+                        <div className="col s6">Ontwerper:</div>
+                        <div className="col s6">{singleItem.designer}</div>
+                        </Fragment>
+                      : null}
+                      {singleItem.status ? 
+                        <Fragment>
+                        <div className="col s6">Status:</div>
+                        <div className="col s6">{singleItem.status}</div>
+                        </Fragment>
+                       : null}
+                      {singleItem.build ? 
+                        <Fragment>
+                        <div className="col s6">Bouw:</div>
+                        <div className="col s6">{singleItem.build}</div>
+                        </Fragment>
+                      : null} 
+                      {singleItem.opened ? 
+                        <Fragment>
+                        <div className="col s6">Opening:</div>
+                        <div className="col s6">{singleItem.opened}</div>
+                        </Fragment>
+                      : null} 
+                      {singleItem.cost ? 
+                        <Fragment>
+                        <div className="col s6">Kosten:</div>
+                        <div className="col s6">{singleItem.cost}</div>
+                        </Fragment>
+                     : null} 
+                     {singleItem.maxspeed ? 
+                        <Fragment>
+                        <div className="col s6">Maximale snelheid:</div>
+                        <div className="col s6">{singleItem.maxspeed} km/u</div>
+                        </Fragment>
+                     : null} 
+                     {singleItem.rideduration ? 
+                        <Fragment>
+                        <div className="col s6">Ritduur:</div>
+                        <div className="col s6">{singleItem.rideduration}</div>
+                        </Fragment>
+                     : null} 
+                     {singleItem.trains ? 
+                        <Fragment>
+                        <div className="col s6">Aantal voertuigen:</div>
+                        <div className="col s6">{singleItem.trains}</div>
+                        </Fragment>
+                     : null} 
+                     {singleItem.capacity ? 
+                        <Fragment>
+                        <div className="col s6">Capaciteit:</div>
+                        <div className="col s6">{singleItem.capacity}</div>
+                        </Fragment>
+                     : null} 
+                      </div>
                     </div>
                   </div>
                 </div>

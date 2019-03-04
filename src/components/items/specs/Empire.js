@@ -21,7 +21,7 @@ const Empire = ({empire}) => {
 
     const empireLink = empire.toLowerCase();
     return (
-        <Link to={'/'+ empireLink}>
+        <Link to={'/empire/'+ empireLink}>
          <p className={"white-text center-align btn " + color}>{empire}</p>
         </Link>
     )

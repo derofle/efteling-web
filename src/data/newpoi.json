@@ -4,7 +4,7 @@
             "id": "symbolica",
             "name": "Symbolica",
             "category": "attraction",
-            "status": "open",
+            "status": "Open",
             "type": "Trackless darkride",
             "builder": "Heijmans NV, ETF Ride Systems",
             "designer": "Sander de Bruijn et al.",
@@ -434,7 +434,7 @@
         {
             "id": "gondoletta",
             "name": "Gondoletta",
-            "type": "Boat ride",
+            "type": "Rondvaart",
             "category": "attraction",
             "latlon": "51.650581,5.051335",
             "subtitle": "Laat je meevoeren",

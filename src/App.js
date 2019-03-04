@@ -7,11 +7,6 @@ import AttractionDetails from './components/items/ItemDetails'
 // JSON
 import PoiRaw from './data/newpoi'
 
-
- 
-
-
-
 class App extends Component {
   
   state = {
@@ -35,7 +30,6 @@ class App extends Component {
         newData = PoiData.map(itm => 
         ({ ...ApiData.find((item) =>
         (item.Id === itm.id) && item), ...itm }));
-        
       })
       .then(() => {
         fetch('https://eftelingapi.herokuapp.com/metadata')
